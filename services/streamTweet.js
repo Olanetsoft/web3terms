@@ -12,7 +12,7 @@ const streamTweet = () => {
     logger.info(`Tweet: ${tweet.text}`);
 
     if (tweet) {
-      let { id_str, text, user, entities, retweeted_status } = tweet;
+      let { id_str, text, user, entities } = tweet;
 
       if (entities.user_mentions.length > 0) {
         entities.user_mentions.forEach(mention => {
