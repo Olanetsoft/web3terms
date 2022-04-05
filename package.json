@@ -1,0 +1,43 @@
+{
+  "name": "web3terms",
+  "version": "1.0.0",
+  "description": "Explaining and Simplifying web3 terms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write .",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "precommit": "lint-staged"
+  },
+  "repository": "https://github.com/Olanetsoft/web3terms.git",
+  "author": "Idris Olubisi <heedris2olubisi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "eslint-config-prettier": "^8.5.0",
+    "express": "^4.17.3",
+    "prettier": "^2.6.2",
+    "twit": "^2.2.11",
+    "url": "^0.11.0",
+    "winston": "^3.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "eslint": "^8.12.0",
+    "husky": "^7.0.4",
+    "nodemon": "^2.0.15"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn precommit"
+    }
+  },
+  "lint-staged": {
+    "*.js": "eslint -- . && prettier --write"
+  }
+}

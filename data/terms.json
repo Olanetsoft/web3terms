@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "623356da247928de10727e6e",
+    "term": "coin",
+    "meaning": "A crypto coin",
+    "createdAt": "2022-03-17T15:42:18.858Z",
+    "updatedAt": "2022-03-17T15:42:18.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "623356dc247928de10727e70",
+    "term": "faq",
+    "meaning": "frequently asked questions",
+    "createdAt": "2022-03-17T15:42:20.724Z",
+    "updatedAt": "2022-03-17T15:42:20.724Z",
+    "__v": 0
+  }
+]
