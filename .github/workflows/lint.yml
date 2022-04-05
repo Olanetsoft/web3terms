@@ -20,5 +20,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install --save-dev eslint-config-airbnb
-      - run: npm run lint
+      - run: yarn add eslint-config-airbnb
+      - run: yarn run lint:check
