@@ -3,6 +3,7 @@ import restartStream from './restartStream.js';
 import twitConfig from '../config/twit.config.js';
 import translateTerm from './translateTerm.js';
 import postTweet from './postTweet.js';
+import postAcknowledgementTweet from './postAcknowledgementTweet.js';
 import failureMessage from './response.js';
 
 const streamTweet = () => {
@@ -34,6 +35,16 @@ const streamTweet = () => {
             postTweet(twitConfig, meaning, id_str, user?.screen_name)
               .then(() => {
                 logger.info('Reply Sent!');
+              })
+              .catch(error => {
+                restartStream(stream);
+                logger.error(error);
+              });
+
+            // Acknowledge the tweet
+            postAcknowledgementTweet(twitConfig, id_str, user?.screen_name)
+              .then(() => {
+                logger.info('Posted Acknowledgement Reply!');
               })
               .catch(error => {
                 restartStream(stream);

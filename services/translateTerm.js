@@ -23,8 +23,6 @@ const readData = () => {
 };
 
 const translateTerm = async text => {
-  logger.info('translateTerm: ', text);
-
   const data = await readData();
 
   if (data.length > 0) {
