@@ -302,5 +302,109 @@
   {
     "term": "genesis block",
     "meaning": "Genesis Block is the first block of a blockchain network."
+  },
+  {
+    "term": "cryptocurrency",
+    "meaning": "Cryptocurrency, or crypto, is a type of digital currency that can be used as a medium of exchange. It employs encryption to safeguard and authenticate transactions, as well as to regulate the generation of new digital currency units."
+  },
+  {
+    "term": "ico",
+    "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
+  },
+  {
+    "term": "icos",
+    "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
+  },
+  {
+    "term": "initial coin offering",
+    "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
+  },
+  {
+    "term": "crypto wallet",
+    "meaning": "A crypto wallet is a program or software that allows users to engage and interact with blockchain networks directly. Some popular are Coin base, Meta mask, and Wallet connect."
+  },
+  {
+    "term": "gas fees",
+    "meaning": "This is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as "gas fees.""
+  },
+  {
+    "term": "gas fee",
+    "meaning": "The is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as "gas fees.""
+  },
+  {
+    "term": "hodl",
+    "meaning": "Hodl is a cryptocurrency technique in which traders are 'hodling on for dear life,' as the name implies. This means that a trader must refrain from selling the cryptocurrency token, even at periods when its value is extremely volatile."
+  },
+  {
+    "term": "buidl",
+    "meaning": "In the same way that 'HODL' is a warping of the word 'hold,' BUIDL is a warping of the word 'build.' Instead of passively retaining, BUIDL is a call to arms for growing and contributing to the blockchain and cryptocurrency ecosystem."
+  },
+  {
+    "term": "staking",
+    "meaning": "DeFi staking frequently refers to locking up tokens within a protocol to achieve a certain aim or effect, rather than securing block creation."
+  },
+  {
+    "term": "buy the dip",
+    "meaning": "This is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
+  },
+  {
+    "term": "opensea",
+    "meaning": "It is the world's largest NFT exchange, specializing in ethereum-based NFTs."
+  },
+  {
+    "term": "multichain",
+    "meaning": "Data, coins, or assets can be sent from one blockchain to another. Multichain services, on the other hand, are designed to work over many blockchains."
+  },
+  {
+    "term": "cross-chain",
+    "meaning": "Data, coins, or assets can be sent from one blockchain to another. Cross-chain services, on the other hand, are designed to work over many blockchains."
+  },
+  {
+    "term": "cryptography",
+    "meaning": "A type of data encryption in which data can only be decrypted with the use of a key."
+  },
+  {
+    "term": "governance token",
+    "meaning": "Governance tokens are cryptocurrencies that give the owner voting rights over the given project."
+  },
+  {
+    "term": "seed phrase",
+    "meaning": "You'll be given a 12-word seed phrase when you create a cryptocurrency wallet. You'll need to enter your seed phrase every time you log into your wallet on a new device. Never tell anyone your seed phrase."
+  },
+  {
+    "term": "whitelist",
+    "meaning": "A cryptocurrency and non-fungible token presale list. Whitelisted investors have the opportunity to purchase the item before it is released to the general public, often at a discount."
+  },
+  {
+    "term": "etherscan",
+    "meaning": "Etherscan is a program that allows you to see information about any Ethereum blockchain transactions that are either pending or confirmed. "
+  },
+  {
+    "term": "allocation",
+    "meaning": "Allocation is the allotment of equity or tokens that may be earned, bought, or reserved for a specific team, group, investor, institution, or another similar entity"
+  },
+  {
+    "term": "apeing",
+    "meaning": "Apeing is when a cryptocurrency trader buys a token shortly after the token project launch without conducting thorough research."
+  },
+  {
+    "term": "gm",
+    "meaning": "Good morning"
+  },
+  {
+    "term": "ngmi",
+    "meaning": "Not Gonna to Make It"
+  },
+  {
+    "term": "pos",
+    "meaning": "Proof of Stake"
+  },
+  {
+    "term": "fud",
+    "meaning": "Fear, Uncertainty, Doubt"
+  },
+  {
+    "term": "lambo",
+    "meaning": "Lamborghini"
   }
 ]
