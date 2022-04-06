@@ -1,6 +1,6 @@
-import { createLogger, format, transports } from 'winston'
+import { createLogger, format, transports } from 'winston';
 
-const { combine, timestamp, errors, simple, splat, printf } = format
+const { combine, timestamp, errors, simple, splat, printf } = format;
 
 const logger = createLogger({
   format: combine(
@@ -16,6 +16,6 @@ const logger = createLogger({
     )
   ),
   transports: [new transports.Console()],
-})
+});
 
-export default logger
+export default logger;
