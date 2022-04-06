@@ -1,18 +1,306 @@
 [
   {
-    "_id": "623356da247928de10727e6e",
-    "term": "coin",
-    "meaning": "A crypto coin",
-    "createdAt": "2022-03-17T15:42:18.858Z",
-    "updatedAt": "2022-03-17T15:42:18.858Z",
-    "__v": 0
+    "term": "blockchain",
+    "meaning": "Blockchain is a decentralized digital ledger that anyone can access and can be used to store and transfer data without the need for a central authority. Blockchains are the underlying technology that allows cryptocurrency systems like Bitcoin and Ethereum to function."
   },
   {
-    "_id": "623356dc247928de10727e70",
-    "term": "faq",
-    "meaning": "frequently asked questions",
-    "createdAt": "2022-03-17T15:42:20.724Z",
-    "updatedAt": "2022-03-17T15:42:20.724Z",
-    "__v": 0
+    "term": "bitcoin",
+    "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
+  },
+  {
+    "term": "block",
+    "meaning": "A block is a group of transactions that have been recorded on the blockchain. Every block has information about the block preceding it, allowing them to communicate with one another."
+  },
+  {
+    "term": "airdrop",
+    "meaning": "Airdrop is a marketing strategy in which crypto projects send their native tokens directly to their users' wallets to enhance adoption and awareness."
+  },
+  {
+    "term": "block explorer",
+    "meaning": "Block Explorer is a tool for browsing blockchain data, including transactions, wallet addresses, market capitalizations, and hash rates."
+  },
+  {
+    "term": "bridge",
+    "meaning": "A protocol allows different blockchains to interact, allowing data, coins, and other information to be transferred between systems."
+  },
+  {
+    "term": "burn",
+    "meaning": "Burning entails withdrawing several tokens from circulation for good. The burning process is accomplished by moving the tokens in question to a burn address, a wallet from which they cannot be retrieved. However, It is often referred to as token destruction."
+  },
+  {
+    "term": "decentralized autonomous organization",
+    "meaning": "DAO is an open-source organization that its users manage. DAOs are focused on a single project or objective, and they substitute the traditional hierarchical processes of legacy organizations for blockchain-based principles."
+  },
+  {
+    "term": "dao",
+    "meaning": "DAO is an open-source organization that its users manage. DAOs are focused on a single project or objective, and they substitute the traditional hierarchical processes of legacy organizations for blockchain-based principles."
+  },
+  {
+    "term": "decentralized application",
+    "meaning": "A Dapp is a blockchain-based application built with open-source technology. Dapps live independently of centralized groups or figures, and they frequently use awarded tokens to incentivize users to keep them up to date."
+  },
+  {
+    "term": "dapp",
+    "meaning": "A Dapp is a blockchain-based application built with open-source technology. Dapps live independently of centralized groups or figures, and they frequently use awarded tokens to incentivize users to keep them up to date."
+  },
+  {
+    "term": "wagmi",
+    "meaning": "We're All Gonna Make It, a famous phrase in crypto and trading circles, denotes friendship and optimism."
+  },
+  {
+    "term": "web1.0",
+    "meaning": "Web1.0 is the earliest version of the internet, also known as the 'read-only web' Information-based static websites defined web1.0. User interaction and user-generated material were minimal."
+  },
+  {
+    "term": "web1",
+    "meaning": "Web1 is the earliest version of the internet, also known as the 'read-only web' Information-based static websites defined web1. User interaction and user-generated material were minimal."
+  },
+  {
+    "term": "web2.0",
+    "meaning": "The 'read-write web,' which began in the 1990s, is distinguished by user-generated content and enhanced user interfaces. Web2 emphasizes user experience and interoperability across different applications and websites, resulting in an extensive network of linked websites."
+  },
+  {
+    "term": "web2",
+    "meaning": "The 'read-write web,' which began in the 1990s, is distinguished by user-generated content and enhanced user interfaces. Web2 emphasizes user experience and interoperability across different applications and websites, resulting in an extensive network of linked websites."
+  },
+  {
+    "term": "ethereum",
+    "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
+  },
+  {
+    "term": "coin",
+    "meaning": "A coin, such as BTC, ETH, etc., is a cryptocurrency developed on a native blockchain and meant to be used as a store of value and medium of exchange inside that ecosystem."
+  },
+  {
+    "term": "collateral",
+    "meaning": "Collateral can be a tangible asset like real estate or a digital investment like an NFT, and it can be used as collateral for a loan. In traditional banking, a typical example of collateral is a mortgage."
+  },
+  {
+    "term": "decentralized finance",
+    "meaning": "DeFi is an ecosystem of borderless, trustless, peer-to-peer financial instruments developed on public blockchains without banks. Learn more 👉 https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5"
+  },
+  {
+    "term": "defi",
+    "meaning": "DeFi is an ecosystem of borderless, trustless, peer-to-peer financial instruments developed on public blockchains without banks. Learn more 👉 https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5"
+  },
+  {
+    "term": "smart contract",
+    "meaning": "A smart contract is a self-executing code that is deployed on a blockchain. Smart contracts eliminate the requirement for a central authority, legal system, or external enforcement mechanism to carry out trustworthy transactions and agreements between distant, anonymous participants."
+  },
+  {
+    "term": "wallet",
+    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
+  },
+  {
+    "term": "dex",
+    "meaning": "DEX (Decentralized Exchange) is a blockchain-based peer-to-peer cryptocurrency exchange. Instead of an intermediary person or centralized institution, a DEX is run by its users and smart contracts."
+  },
+  {
+    "term": "decentralized exchange",
+    "meaning": "DEX (Decentralized Exchange) is a blockchain-based peer-to-peer cryptocurrency exchange. Instead of an intermediary person or centralized institution, a DEX is run by its users and smart contracts."
+  },
+  {
+    "term": "decentralized",
+    "meaning": "It's a system that runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
+  },
+  {
+    "term": "dyor",
+    "meaning": "This phrase reminds people to do their research before investing in a specific asset."
+  },
+  {
+    "term": "do your own research",
+    "meaning": "This reminds people to do their research before investing in a specific asset."
+  },
+  {
+    "term": "slippage",
+    "meaning": "Slippage is the difference between the listed price of a cryptocurrency and the price at which a deal executes."
+  },
+  {
+    "term": "fork",
+    "meaning": "A fork is a modification to the protocol of a blockchain. It results in a soft fork when the changes are minor. When the improvements are more fundamental, a hard fork may occur, resulting in the development of a second chain with its own set of rules."
+  },
+  {
+    "term": "fork (hard)",
+    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+  },
+  {
+    "term": "hard fork",
+    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+  },
+  {
+    "term": "fork (soft)",
+    "meaning": "A soft fork is a blockchain upgrade that is backward compatible. These changes do not necessitate the formation of a new chain, unlike a hard fork."
+  },
+  {
+    "term": "soft fork",
+    "meaning": "A soft fork is a blockchain upgrade that is backward compatible. These changes do not necessitate the formation of a new chain, unlike a hard fork."
+  },
+  {
+    "term": "transaction hash",
+    "meaning": "Transaction Hash (Txn Hash) is a long string of letters and digits that serves as a unique identifier for a given transaction. You may find the specifics of a transaction by pasting a txn hash into a block explorer like Etherscan."
+  },
+  {
+    "term": "stablecoin",
+    "meaning": "Stablecoin is a token whose value is linked to a different asset. These coins are usually backed by a fiat currency, such as the US dollar. Still, they can also be supported by tangible assets such as precious metals or even other cryptocurrencies, such as Bitcoin."
+  },
+  {
+    "term": "full node",
+    "meaning": "This blockchain node verifies and relays transactions while also storing the blockchain's entire history."
+  },
+  {
+    "term": "fractionalize",
+    "meaning": "Fractionalization encodes an NFT in a smart contract and breaks it into smaller pieces distributed as fungible tokens. It decreases ownership costs and allows a community to own artwork and other digital assets."
+  },
+  {
+    "term": "slashing",
+    "meaning": "Slashing is the process of a validator's staked bitcoin being burned or redistributed as a penalty for allowing fraudulent charges or otherwise damaging the network."
+  },
+  {
+    "term": "token",
+    "meaning": "A token is a digital asset established on a blockchain that already exists. Tokens represent digital and physical assets and interact with decentralized applications (Dapps)."
+  },
+  {
+    "term": "transaction",
+    "meaning": "A transaction is a data that has been added to a blockchain. Nodes on the network verify new transactions before broadcasting them to other nodes. The transaction is considered genuine and added to a block if enough nodes have validated it."
+  },
+  {
+    "term": "p2p (peer-to-peer)",
+    "meaning": "P2P refers to a network of two or more computers that communicate directly without a central server or entity."
+  },
+  {
+    "term": "peer to peer",
+    "meaning": "peer to peer refers to a network of two or more computers that communicate directly without a central server or entity."
+  },
+  {
+    "term": "p2p",
+    "meaning": "P2P refers to a network of two or more computers that communicate directly without a central server or entity."
+  },
+  {
+    "term": "metaverse",
+    "meaning": "A metaverse is a network of 3D virtual worlds, augmented reality, game consoles, and mobile devices focused on social connection."
+  },
+  {
+    "term": "testnet",
+    "meaning": "Testnet is a software environment that resembles the mainnet blockchain and is used to test network upgrades and smart contracts before they are deployed to the mainnet."
+  },
+  {
+    "term": "wallet address",
+    "meaning": "Like a bank account number, a wallet address is an alphanumeric identifier that serves as the address for a blockchain wallet. Other users can send digital assets to your wallet using your public key, but the contents of your wallet are only accessible using your private key."
+  },
+  {
+    "term": "wei",
+    "meaning": "Wei is the smallest ether denomination, named after Wei Dai, a cypherpunk and cryptocurrency pioneer. One ether = 10^18 gwei"
+  },
+  {
+    "term": "sha256",
+    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. This hash is then used to represent the data securely."
+  },
+  {
+    "term": "sha-256",
+    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. This hash is then used to represent the data securely."
+  },
+  {
+    "term": "sharding",
+    "meaning": "Sharding is a technique for breaking down a network's nodes into smaller groups (shards) to improve scalability. These shards can then reach a consensus on behalf of the entire network, eliminating the requirement for each node to execute each transaction."
+  },
+  {
+    "term": "rug pull",
+    "meaning": "Rug pulling is a scam technique in which a crypto enterprise takes the monies invested in its protocol and runs with them. If someone can sell a significant amount of the circulating supply, the supply will rapidly expand, causing the asset's price to drop."
+  },
+  {
+    "term": "protocol",
+    "meaning": "A program's basic software layer is called a protocol. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
+  },
+  {
+    "term": "consensus",
+    "meaning": "Consensus is an algorithm that aims to make decentralized record-keeping more centralized database-like. The state of agreement among the nodes on a blockchain is often called consensus. A consensus is required to confirm new transactions and add new blocks to the blockchain."
+  },
+  {
+    "term": "mechanism of consensus",
+    "meaning": "The consensus mechanism is how nodes on a blockchain agree on a transaction or the network's current state."
+  },
+  {
+    "term": "minting",
+    "meaning": "Minting confirms and registers information on the blockchain, such as domain ownership."
+  },
+  {
+    "term": "public key",
+    "meaning": "The public key is used to point to your wallet address, an alphanumeric code similar to a bank account number that acts as the address for a blockchain wallet. "
+  },
+  {
+    "term": "private key",
+    "meaning": "A private key is an alphanumeric passcode that may be used to withdraw funds from a blockchain wallet and approve digital transactions. Because these private keys are long and difficult to recall, wallets usually associate them with a seed or recovery phrase."
+  },
+  {
+    "term": "oracle",
+    "meaning": "Oracle is a service that provides data from the outside world to smart contracts. Smart contracts can't access data off-chain; thus, they rely on oracles like Chainlink and Band Protocol to retrieve, verify, and distribute external data."
+  },
+  {
+    "term": "mining",
+    "meaning": "Mining is a Proof of Work (PoW) system. Confirming transactions, grouping them into blocks, and adding blocks to the blockchain is block verification. Miners are those who participate in this procedure."
+  },
+  {
+    "term": "pow",
+    "meaning": "PoW is a consensus process in which miners must solve complicated mathematical problems to verify transactions and mint blocks. When miners solve a challenge correctly, they acquire permission to mint the next block and receive the block reward and transaction fees."
+  },
+  {
+    "term": "proof of work",
+    "meaning": "PoW is a consensus process in which miners must solve complicated mathematical problems to verify transactions and mint blocks. When miners solve a challenge correctly, they acquire permission to mint the next block and receive the block reward and transaction fees."
+  },
+  {
+    "term": "node",
+    "meaning": "Any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
+  },
+  {
+    "term": "nft",
+    "meaning": "A digital certificate of authenticity, or NFT, is used to assign and verify a single digital or physical item ownership. NFTs are not convertible with each other, unlike fungible tokens."
+  },
+  {
+    "term": "non-fungible token",
+    "meaning": "A digital certificate of authenticity, or NFT, is used to assign and verify a single digital or physical item ownership. NFTs are not convertible with each other, unlike fungible tokens."
+  },
+  {
+    "term": "to the moon",
+    "meaning": "This term suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
+  },
+  {
+    "term": "mainnet",
+    "meaning": "In contrast to a testnet or layer two solutions, the mainnet is a main layer one blockchain."
+  },
+  {
+    "term": "market capitalization",
+    "meaning": "The entire worth of an asset is determined by its current market price. The market capitalization of a cryptocurrency is calculated by multiplying the price of a single coin by its circulating supply."
+  },
+  {
+    "term": "liquidity pool",
+    "meaning": "The Liquidity Pool collects user-provided funds locked into a smart contract to make trading on a DeFi platform easier. Users must offer liquidity on decentralized exchanges and lending protocols because there is no central bank or figure to do so."
+  },
+  {
+    "term": "liquidity",
+    "meaning": "Liquidity refers to how easily an item can be bought, sold, or traded in a given market. Market liquidity and accounting liquidity are the two most common forms of liquidity. Cash is the most liquid asset, whereas tangible assets are less so."
+  },
+  {
+    "term": "erc-1155",
+    "meaning": "ERC-1155 is an Ethereum token standard that allows a single, smart contract to manage fungible, non-fungible simultaneously, and semi-fungible tokens. These are often employed in gaming and collector trading to reduce the number of transactions required."
+  },
+  {
+    "term": "erc-20",
+    "meaning": "Tokens represent many digital assets in the Ethereum system, including vouchers, IOUs, and even real-world, actual objects. ERC-20 is the Ethereum token standard, which provides fungible tokens with a standardized innovative contract structure."
+  },
+  {
+    "term": "erc-721",
+    "meaning": "ERC-721 is a standard for the creation of a new token standard that allows for the creation of a new token type that is not fungible. ERC-721 is used by the Ethereum Virtual Machine (EVM) to create a new token type that is not fungible."
+  },
+  {
+    "term": "fomo",
+    "meaning": "FOMO is a sensation of worry caused by missing out on a chance. It usually occurs when investors acquire an asset after it has already experienced a significant price increase, hoping to get in and out before a pullback occurs."
+  },
+  {
+    "term": "fear of missing out",
+    "meaning": "FOMO is a sensation of worry caused by missing out on a chance. It usually occurs when investors acquire an asset after it has already experienced a significant price increase, hoping to get in and out before a pullback occurs."
+  },
+  {
+    "term": "genesis block",
+    "meaning": "Genesis Block is the first block of a blockchain network."
   }
 ]
