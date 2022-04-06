@@ -4,7 +4,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/web3terms?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/web3terms)
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/web3terms?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/web3terms)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/web3terms?style=plastic&label=Watch)](https://github.com/Olanetsoft/web3terms)
-[![GitHub followers](https://img.shields.io/github/followers/Olanetsoft.svg?style=plastic&label=Followers)](https://github.com/Olanetsoft/web3terms)
 [![Twitter Follow](https://img.shields.io/twitter/follow/web3terms.svg?style=social)](https://twitter.com/web3terms) 
 
 
