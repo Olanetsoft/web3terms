@@ -407,4 +407,17 @@
     "term": "lambo",
     "meaning": "Lamborghini"
   }
+  {
+    "term": "L1",
+    "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
+  }
+  {
+    "term": "L2",
+    "meaning": "Distributed system complimenting L1 providing fast and scalable transaction processing."
+  }
+  {
+    "term": "plebble",
+    "meaning": "P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
+  }
+  
 ]
