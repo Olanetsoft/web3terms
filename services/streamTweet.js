@@ -5,6 +5,7 @@ import translateTerm from './translateTerm.js';
 import postTweet from './postTweet.js';
 import postAcknowledgementTweet from './postAcknowledgementTweet.js';
 import failureMessage from './response.js';
+import validateTweet from './validations.js';
 
 const streamTweet = () => {
   const stream = twitConfig.stream('statuses/filter', { track: '@web3terms' });
@@ -13,7 +14,7 @@ const streamTweet = () => {
     logger.info(`Tweet: ${tweet.text}`);
 
     if (tweet) {
-      let { id_str, text, user, entities } = tweet;
+      let { id_str, text, user, entities, retweeted_status } = tweet;
 
       if (entities.user_mentions.length > 0) {
         entities.user_mentions.forEach(mention => {
@@ -29,43 +30,47 @@ const streamTweet = () => {
         .replace(/\s+/g, ' ')
         .toLowerCase();
 
-      translateTerm(newText.trim())
-        .then(meaning => {
-          if (meaning) {
-            postTweet(twitConfig, meaning, id_str, user?.screen_name)
-              .then(() => {
-                logger.info('Reply Sent!');
-              })
-              .catch(error => {
-                restartStream(stream);
-                logger.error(error);
-              });
+      if (validateTweet(user, newText, retweeted_status)) {
+        translateTerm(newText.trim())
+          .then(meaning => {
+            if (meaning) {
+              postTweet(twitConfig, meaning, id_str, user?.screen_name)
+                .then(() => {
+                  logger.info('Reply Sent!');
+                })
+                .catch(error => {
+                  restartStream(stream);
+                  logger.error(error);
+                });
 
-            // Acknowledge the tweet
-            postAcknowledgementTweet(twitConfig, id_str, user?.screen_name)
-              .then(() => {
-                logger.info('Posted Acknowledgement Reply!');
-              })
-              .catch(error => {
-                restartStream(stream);
-                logger.error(error);
-              });
-          } else {
-            const _failureMessage = failureMessage();
-            postTweet(twitConfig, _failureMessage, id_str, user?.screen_name)
-              .then(() => {
-                logger.info('Failure Reply Sent!');
-              })
-              .catch(error => {
-                restartStream(stream);
-                logger.error(error);
-              });
-          }
-        })
-        .catch(error => {
-          restartStream(stream);
-          logger.error(error);
-        });
+              // Acknowledge the tweet
+              postAcknowledgementTweet(twitConfig, id_str, user?.screen_name)
+                .then(() => {
+                  logger.info('Posted Acknowledgement Reply!');
+                })
+                .catch(error => {
+                  restartStream(stream);
+                  logger.error(error);
+                });
+            } else {
+              const _failureMessage = failureMessage();
+              postTweet(twitConfig, _failureMessage, id_str, user?.screen_name)
+                .then(() => {
+                  logger.info('Failure Reply Sent!');
+                })
+                .catch(error => {
+                  restartStream(stream);
+                  logger.error(error);
+                });
+            }
+          })
+          .catch(error => {
+            restartStream(stream);
+            logger.error(error);
+          });
+      } else {
+        logger.info('Tweet not valid!');
+      }
     }
   });
 
