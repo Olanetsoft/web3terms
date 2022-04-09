@@ -26,7 +26,7 @@ const translateTerm = async text => {
   const data = await readData();
 
   if (data.length > 0) {
-    const termData = data.find(item => item.term === text);
+    const termData = data.find(item => item.term.toLowerCase() === text);
 
     if (termData) {
       logger.info('Data Found!');
