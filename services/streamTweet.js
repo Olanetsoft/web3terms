@@ -30,7 +30,7 @@ const streamTweet = () => {
         .replace(/\s+/g, ' ')
         .toLowerCase();
 
-      if (validateTweet(user, newText, retweeted_status)) {
+      if (validateTweet(user, text, retweeted_status)) {
         translateTerm(newText.trim())
           .then(meaning => {
             if (meaning) {
