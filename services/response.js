@@ -5,7 +5,7 @@ const failureMessage = () => {
     `Sorry, I don't know this term. I'll be updating my collection shortly, or you can read my bio to learn more about how I reply to mentions.`,
   ];
 
-  return texts[Math.floor(Math.random() * 3)];
+  return texts[Math.floor(Math.random() * texts.length)];
 };
 
 export default failureMessage;
