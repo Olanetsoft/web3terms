@@ -9,6 +9,9 @@
 
 A twitter bot explaining and simplifying web3 terms to everyone!
 
+<img width="600" alt="Screenshot 2022-04-07 at 22 58 40" src="https://user-images.githubusercontent.com/45847909/162620196-98c4c249-de0b-42de-bb8e-bdb19062d64e.png">
+
+
 ## Installation
 
 + Install [Node.js](http://nodejs.org/)
