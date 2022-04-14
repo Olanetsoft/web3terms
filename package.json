@@ -22,6 +22,7 @@
     "dotenv": "^16.0.0",
     "eslint-config-prettier": "^8.5.0",
     "express": "^4.17.3",
+    "node-schedule": "^2.1.0",
     "prettier": "^2.6.2",
     "twit": "^2.2.11",
     "url": "^0.11.0",
