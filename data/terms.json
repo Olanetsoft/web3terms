@@ -422,5 +422,125 @@
   {
     "term": "Yield Farming",
     "meaning": "Yield farming is the process of using decentralized finance (DeFi) to maximize returns. Users lend or borrow crypto on a DeFi platform and earn cryptocurrency in return for their services."
+  },
+  {
+    "term": "Alpha",
+    "meaning": "Alpha is a valuable or insider information, usually regarding the value of digital assets like cryptocurrencies and NFTs"
+  },
+  {
+    "term": "Altcoin",
+    "meaning": "Altcoin is initially used to refer to any cryptocurrency that wasn’t Bitcoin, altcoin may now refer to any new cryptocurrency with a relatively small market cap."
+  },
+  {
+    "term": "Alts",
+    "meaning": "Alts is short for altcoins."
+  },
+  {
+    "term": "Ape",
+    "meaning": "Ape is someone who invests heavily into a cryptocurrency or stock or the act of doing so. This is sometimes a reaction to hype and FOMO or done without much knowledge of the asset."
+  },
+  {
+    "term": "All Time High",
+    "meaning": "All Time High is the highest price an asset has ever had."
+  },
+  {
+    "term": "Ath",
+    "meaning": "All Time High is the highest price an asset has ever had."
+  },
+  {
+    "term": "All Time Low",
+    "meaning": "All Time Low is the lowest price an asset has ever had."
+  },
+  {
+    "term": "ATL",
+    "meaning": "All Time Low is the lowest price an asset has ever had."
+  },
+  {
+    "term": "Bear Market",
+    "meaning": "Bear Market is a prolonged period of decline in a financial market."
+  },
+  {
+    "term": "Bearish",
+    "meaning": "Bearish is similar to a bear market, this refers to holding a pessimistic view of a market or asset’s value. If you are bearish on a certain cryptocurrency, you believe its value will decrease over time."
+  },
+  {
+    "term": "Bull Market",
+    "meaning": "Bull Market is a prolonged period of growth in a financial market."
+  },
+  {
+    "term": "Centralized",
+    "meaning": "Centralized is a hierarchical structure in which authority and control are concentrated within a small group of decision makers."
+  },
+  {
+    "term": "Centralized Exchange",
+    "meaning": "Centralized Exchange a cryptocurrency exchange managed by a centralized business or entity. e.g Coinbase etc."
+  },
+  {
+    "term": "Cex",
+    "meaning": "Centralized Exchange a cryptocurrency exchange managed by a centralized business or entity. e.g Coinbase etc."
+  },
+  {
+    "term": "Centralized Finance",
+    "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
+  },
+  {
+    "term": "CeFi",
+    "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
+  },
+  {
+    "term": "Data",
+    "meaning": "Data in the context of the internet refers to a user’s personal information."
+  },
+  {
+    "term": "Due Diligence",
+    "meaning": "Due Diligence is the process of conducting your research on a cryptocurrency, stock, or other assets before investing. Doing your own DD is essential, as opposed to making an investment based on what someone else says or does."
+  },
+  {
+    "term": "Degen",
+    "meaning": "Degen is initially short for “degenerate gambler.” While this still refers to individuals involved with risky bets, degen may also refer more broadly to anyone involved in crypto and financial spaces."
+  },
+  {
+    "term": "Diamond Hands",
+    "meaning": "Diamond Hands implies that you are extremely bullish on a specific asset, and have no plans to sell regardless of market volatility, FUD, or extreme drops in price."
+  },
+  {
+    "term": "Difficulty",
+    "meaning": "Difficulty is the computing power needed to verify transactions and mine blocks on a proof-of-work blockchain."
+  },
+  {
+    "term": "Difficulty Bomb",
+    "meaning": "Difficulty Bomb is increasing the difficulty of a proof-of-work blockchain to motivate the transition to another consensus algorithm (such as proof-of-stake in the case of Ethereum)."
+  },
+  {
+    "term": "EIP",
+    "meaning": "EIP is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
+  },
+  {
+    "term": "Ethereum Improvement Proposal",
+    "meaning": "Ethereum Improvement Proposal is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
+  },
+  {
+    "term": "ERC",
+    "meaning": "ERC is the standard smart contract outline on which Ethereum-based smart contracts are built."
+  },
+  {
+    "term": "Ethereum Request for Comments",
+    "meaning": "Ethereum Request for Comments is the standard smart contract outline on which Ethereum-based smart contracts are built."
+  },
+  {
+    "term": "Few",
+    "meaning": "Few is short for “Few understand”. A rallying cry that crypto folks are still early in this space and will make a lot of money when mass adoption comes."
+  },
+  {
+    "term": "Fiat",
+    "meaning": "Fiat is a currency that is used to purchase crypto. Fiat is a form of money that is not backed by any crypto."
+  },
+  {
+    "term": "Flippening",
+    "meaning": "Flippening is a reference to the possible event of Ethereum becoming more valuable than Bitcoin, in terms of market cap."
+  },
+  {
+    "term": "Fungible",
+    "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
   }
 ]
