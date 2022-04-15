@@ -7,7 +7,7 @@ import readData from '../utils/readData.js';
 
 const dailyTweet = () => {
   schedule.scheduleJob('0 8 * * *', async () => {
-    logger.info('Tweeting daily at 8am...');
+    logger.info('Tweeting daily at 9am...');
 
     const data = await readData();
     // Read the file and past the data to the postTweet function
