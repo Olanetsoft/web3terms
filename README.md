@@ -89,6 +89,7 @@ You might want to push this app to a running server , probably [heroku](https://
 #### Credits
 - [Twit Library](https://github.com/ttezel/twit)
 - [Nishant Srivastava](https://github.com/nisrulz)
+- [Ugwu Stanley](https://github.com/ugwustanley) the creator of [Decode Abbreviation](https://twitter.com/decode_abbr)
 
 
 If you appreciate my work, consider [buying me a cup of :coffee:](https://www.buymeacoffee.com/olanetsoft)  to keep me recharged.
