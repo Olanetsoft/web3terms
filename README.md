@@ -17,21 +17,43 @@ A twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 
-## Installation
+## 🛠️ Installation
 
-+ Install [Node.js](http://nodejs.org/)
++ Install [Node.js](http://nodejs.org/) on your PC
++ Start by making a fork of the repository. Click on the "Fork" symbol at the top right corner
 + Clone this repo
- 
-	```bash
-	  git clone https://github.com/Olanetsoft/web3terms.git
-	```
+```bash
+ 	git clone https://github.com/Olanetsoft/web3terms.git
+```
 + Run 
-	```bash
+```bash
 	yarn
-	```
+```
 
-	> It will install [Twit](https://github.com/ttezel/twit), the library that lets us talk to Twitter.
+> It will install [Twit](https://github.com/ttezel/twit), the library that lets us talk to Twitter.
 
+
+## 🥂 After making a change
+
+1. Create a new branch
+```bash
+	git checkout -b Your-branch-ame
+```
+
+2. Add changes 
+```bash
+	git add .
+```
+
+3. Add a commit message
+```bash
+	git commit -m"<your message>"
+```
+
+4. Push your changes
+```bash
+	git push
+```
 
 ## Connecting to Twitter
 
@@ -61,9 +83,9 @@ A twitter bot explaining and simplifying web3 terms to everyone!
             
 1. Now type the following in the command line in your project directory to start the project
 
-	```bash
+```bash
 	yarn dev
-	```
+```
 
 You should have something similar to what is shown below on your terminal.
 
@@ -72,24 +94,36 @@ You should have something similar to what is shown below on your terminal.
 [LOGGING] info: "Server running on port xxxx"
 ```
 
-### **Whats Next**
+## 👨‍👩‍👦 Community
+Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter
 
-You might want to push this app to a running server , probably [heroku](https://www.heroku.com/).
+### 👩🏽‍💻 Contributing
 
-> Note : Heroku servers would go back to sleep if there is no activity after some time, so you can have a look at [Kaffeine](https://kaffeine.herokuapp.com/) , to keep your server active.
->
-> Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
+- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are greatly appreciated.
+- Check out our contribution guidelines for more information.
 
-### Contribute
 + **Star** - If you like it
 + **Fork** - If you like to build your own version
 + **File an issue** - If you found a bug
 + **Send a pull request** - If you want to contribute
 
+### **Whats Next**
+
+You might want to push this app to a running server, [here is a curated list you can checkout.](https://www.heroku.com/).
+
+> Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
+
+
 #### Credits
+
 - [Twit Library](https://github.com/ttezel/twit)
 - [Nishant Srivastava](https://github.com/nisrulz)
 - [Ugwu Stanley](https://github.com/ugwustanley) the creator of [Decode Abbreviation](https://twitter.com/decode_abbr)
 
 
-If you appreciate my work, consider [buying me a cup of :coffee:](https://www.buymeacoffee.com/olanetsoft)  to keep me recharged.
+### Thanks to all Contributors 💪 
+
+Thanks a lot for spending your time helping EddieBot grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/web3terms)](https://github.com/Olanetsoft/web3terms/edit/develop/README.md)
