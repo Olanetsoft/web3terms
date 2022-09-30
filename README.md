@@ -23,11 +23,11 @@ A twitter bot explaining and simplifying web3 terms to everyone!
 + Start by making a fork of the repository. Click on the "Fork" symbol at the top right corner
 + Clone this repo
 ```bash
- 	git clone https://github.com/Olanetsoft/web3terms.git
+git clone https://github.com/Olanetsoft/web3terms.git
 ```
 + Run 
 ```bash
-	yarn
+yarn
 ```
 
 > It will install [Twit](https://github.com/ttezel/twit), the library that lets us talk to Twitter.
@@ -37,54 +37,53 @@ A twitter bot explaining and simplifying web3 terms to everyone!
 
 1. Create a new branch
 ```bash
-	git checkout -b Your-branch-ame
+git checkout -b Your-branch-ame
 ```
 
 2. Add changes 
 ```bash
-	git add .
+git add .
 ```
 
 3. Add a commit message
 ```bash
-	git commit -m"<your message>"
+git commit -m"<your message>"
 ```
 
 4. Push your changes
 ```bash
-	git push
+git push
 ```
 
 ## Connecting to Twitter
 
 1. Register a Twitter account and also get its "app info".
-	>Twitter doesn't allow you to register multiple twitter accounts on the same email address. I recommend you create a brand new email address (perhaps using Gmail) for the Twitter account. Once you register the account to that email address, wait for the confirmation email.
+>Twitter doesn't allow you to register multiple twitter accounts on the same email address. I recommend you create a brand new email address (perhaps using Gmail) for the Twitter account. Once you register the account to that email address, wait for the confirmation email.
 
 1. Now go [here](https://dev.twitter.com/apps/new) and log in as the Twitter account for your bot:
 1. Fill up the form and submit.
 1. Next once the submission completes you will be taken to a page which has the 
-	+ "Settings" tab : Update details here
-	+ "Permissons" tab :  Enable `Read and Write` 
-	+ "Key and Access Token" tab : Click on `Generate access token`. 
++ "Settings" tab : Update details here
++ "Permissons" tab :  Enable `Read and Write` 
++ "Key and Access Token" tab : Click on `Generate access token`. 
 1. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
-	It should look like this:
-       
-            PORT=xxxx
-            NODE_ENV=development
+It should look like this:
+PORT=xxxx
+NODE_ENV=development
 
-            DEV_BASE_URL=http://localhost:$PORT
-            PROD_BASE_URL=http://localhost:$PORT
+DEV_BASE_URL=http://localhost:$PORT
+PROD_BASE_URL=http://localhost:$PORT
 
-            TWITTER_CONSUMER_KEY=xxxx
-            TWITTER_CONSUMER_SECRET=xxxx
+TWITTER_CONSUMER_KEY=xxxx
+TWITTER_CONSUMER_SECRET=xxxx
 
-            TWITTER_ACCESS_TOKEN=xxxx
-            TWITTER_ACCESS_TOKEN_SECRET=xxxx
+TWITTER_ACCESS_TOKEN=xxxx
+TWITTER_ACCESS_TOKEN_SECRET=xxxx
             
 1. Now type the following in the command line in your project directory to start the project
 
 ```bash
-	yarn dev
+yarn dev
 ```
 
 You should have something similar to what is shown below on your terminal.
@@ -124,6 +123,6 @@ You might want to push this app to a running server, [here is a curated list you
 
 ### Thanks to all Contributors 💪 
 
-Thanks a lot for spending your time helping EddieBot grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/web3terms)](https://github.com/Olanetsoft/web3terms/edit/develop/README.md)
