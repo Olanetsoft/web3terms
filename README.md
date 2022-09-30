@@ -17,7 +17,7 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 
-## 🛠️ Installation
+## 🛠 Installation
 
 + Install [Node.js](http://nodejs.org/) on your PC
 + Start by making a fork of the repository. Click on the "Fork" symbol at the top right corner
@@ -102,7 +102,7 @@ You should have something similar to what is shown below on your terminal.
 Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter
 
 
-### 👩🏽‍💻 Contributing
+### 🧑‍💻 Contributing
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are greatly appreciated.
@@ -121,7 +121,7 @@ You might want to push this app to a running server, [here is a curated list you
 > Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
 
 
-#### Credits
+### 🫂 Credits
 
 - [Twit Library](https://github.com/ttezel/twit)
 - [Nishant Srivastava](https://github.com/nisrulz)
