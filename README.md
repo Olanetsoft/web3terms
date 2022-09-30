@@ -7,11 +7,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/web3terms.svg?style=social)](https://twitter.com/web3terms) 
 
 
-A twitter bot explaining and simplifying web3 terms to everyone!
+A Twitter bot explaining and simplifying web3 terms to everyone!
 
 <img width="600" alt="Screenshot 2022-04-07 at 22 58 40" src="https://user-images.githubusercontent.com/45847909/162620196-98c4c249-de0b-42de-bb8e-bdb19062d64e.png">
 
-## Features
+## 🏆 Features
 
 + Web3 terms explanation ✅
 + Daily Web3 terms tweet ✅
@@ -55,7 +55,12 @@ git commit -m"<your message>"
 git push
 ```
 
-## Connecting to Twitter
+5. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+6. Congratulations 🙌🏼
+
+
+## 🔀 Connecting to Twitter
 
 1. Register a Twitter account and also get its "app info".
 >Twitter doesn't allow you to register multiple twitter accounts on the same email address. I recommend you create a brand new email address (perhaps using Gmail) for the Twitter account. Once you register the account to that email address, wait for the confirmation email.
@@ -96,6 +101,7 @@ You should have something similar to what is shown below on your terminal.
 ## 👨‍👩‍👦 Community
 Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter
 
+
 ### 👩🏽‍💻 Contributing
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
@@ -106,6 +112,7 @@ Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter
 + **Fork** - If you like to build your own version
 + **File an issue** - If you found a bug
 + **Send a pull request** - If you want to contribute
+
 
 ### **Whats Next**
 
