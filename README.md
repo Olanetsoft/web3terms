@@ -65,13 +65,13 @@ git push
 1. Register a Twitter account and also get its "app info".
 >Twitter doesn't allow you to register multiple twitter accounts on the same email address. I recommend you create a brand new email address (perhaps using Gmail) for the Twitter account. Once you register the account to that email address, wait for the confirmation email.
 
-1. Now go [here](https://dev.twitter.com/apps/new) and log in as the Twitter account for your bot:
-1. Fill up the form and submit.
-1. Next once the submission completes you will be taken to a page which has the 
+2. Now go [here](https://dev.twitter.com/apps/new) and log in as the Twitter account for your bot:
+3. Fill up the form and submit.
+4. Next once the submission completes you will be taken to a page which has the 
 + "Settings" tab : Update details here
 + "Permissons" tab :  Enable `Read and Write` 
 + "Key and Access Token" tab : Click on `Generate access token`. 
-1. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
+5. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
 It should look like this:
 PORT=xxxx
 NODE_ENV=development
@@ -85,7 +85,7 @@ TWITTER_CONSUMER_SECRET=xxxx
 TWITTER_ACCESS_TOKEN=xxxx
 TWITTER_ACCESS_TOKEN_SECRET=xxxx
             
-1. Now type the following in the command line in your project directory to start the project
+6. Type the following in the command line in your project directory to start the project
 
 ```bash
 yarn dev
