@@ -606,9 +606,13 @@
   {
     "term": "orphan block",
     "meaning": "Orphan bloc is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
-  }
+  },
   {
     "term": "blockchain trilemma",
     "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
+  },
+  {
+    "term": "shit coin",
+    "meaning": "A shitcoin is a cryptocurrency with little to no value or digital currency that has no immediate, discernable purpose, it is mostly characterized by short term price increase followed by a huge dump or price decrease by investors who want to capitalize on short-term gains"
   }
 ]
