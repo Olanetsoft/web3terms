@@ -610,5 +610,17 @@
   {
     "term": "blockchain trilemma",
     "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
+  },
+  {
+    "term": "Layer 0",
+    "meaning": "The L0 being the foundation that helps bring blockchain to life. This layer is made up of components that allow Bitcoin, Ethereum, and other blockchain networks to function."
+  },
+  {
+    "term": "Layer 1",
+    "meaning": "The L1 is the layer responsible for consensus methods, programming languages, block time, conflict resolution, rules and parameters that ensure that the blockchain network is an essential function."
+  },
+  {
+    "term": "Layer 2",
+    "meaning": "The L2 is an overlapping network above the base layer. Layer two is used by protocols to promote scalability by separating some interactions from the base layer."
   }
 ]
