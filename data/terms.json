@@ -582,5 +582,37 @@
   {
     "term": "Fungible",
     "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
+  },
+  {
+    "term": "ABI",
+    "meaning": "The standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
+  },
+  {
+    "term": "Byzantine Fault Tolerance",
+    "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
+  },
+  {
+    "term": "finality",
+    "meaning": "It's the assurance that blockchain transactions, once completed, cannot be altered, reversed canceled. The blockchain latency level affects the finality rate."
+  },
+  {
+    "term": "IPFS",
+    "meaning": "It stands for InterPlanetary File System. It's a protocol, an hypermedia, a file sharing p2p network. It's used for storing/sharing data in a distributed file system. It uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts."
+  },
+  {
+    "term": "Merkle tree",
+    "meaning": "A Merkle tree (also called hash tree) is a tree in which leaf nodes are labeled with the cryptographic hash of a data block and every non-leaf node is labeled with the cryptographic hash of the labels of its child."
+  },
+  {
+    "term": "orphan block",
+    "meaning": "It's a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
+  },
+  {
+    "term": "orphan block",
+    "meaning": "It's a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
+  },
+  {
+    "term": "blockchain trilemma",
+    "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
   }
 ]
