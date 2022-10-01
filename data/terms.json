@@ -8,6 +8,10 @@
     "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
   },
   {
+    "term": "satoshi",
+    "meaning": "the smallest denomination of BTC, equal to 0.00000001 bitcoin. Satoshis are named after Bitcoin’s pseudonymous creator, Satoshi Nakamoto."
+  },
+  {
     "term": "block",
     "meaning": "A block is a group of transactions that have been recorded on the blockchain. Every block has information about the block preceding it, allowing them to communicate with one another."
   },
@@ -38,6 +42,14 @@
   {
     "term": "decentralized application",
     "meaning": "A Dapp is a blockchain-based application built with open-source technology. Dapps live independently of centralized groups or figures, and they frequently use awarded tokens to incentivize users to keep them up to date."
+  },
+  {
+    "term": "vaporware",
+    "meaning": "A product or project that is announced and marketed but never actually materializes."
+  },
+  {
+    "term": "tvl",
+    "meaning": "Total Value Locked(TVL), a measure of the assets locked into an dapp’s smart contract, usually expressed in USD."
   },
   {
     "term": "dapp",
@@ -76,6 +88,10 @@
     "meaning": "Collateral can be a tangible asset like real estate or a digital investment like an NFT, and it can be used as collateral for a loan. In traditional banking, a typical example of collateral is a mortgage."
   },
   {
+    "term": "Transactions per second",
+    "meaning": "TPS - the number of transactions that a blockchain can handle per second, used as a benchmark to measure its computational power."
+  },
+  {
     "term": "decentralized finance",
     "meaning": "DeFi is an ecosystem of borderless, trustless, peer-to-peer financial instruments developed on public blockchains without banks. Learn more 👉 https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5"
   },
@@ -86,6 +102,10 @@
   {
     "term": "smart contract",
     "meaning": "A smart contract is a self-executing code that is deployed on a blockchain. Smart contracts eliminate the requirement for a central authority, legal system, or external enforcement mechanism to carry out trustworthy transactions and agreements between distant, anonymous participants."
+  },
+  {
+    "term": "shill",
+    "meaning": "a person is engaged in advertising a cryptocurrency or NFT project by endorsing the project or product in public forums or communities."
   },
   {
     "term": "wallet",
@@ -204,12 +224,24 @@
     "meaning": "Sharding is a technique for breaking down a network's nodes into smaller groups (shards) to improve scalability. These shards can then reach a consensus on behalf of the entire network, eliminating the requirement for each node to execute each transaction."
   },
   {
+    "term": "scalability",
+    "meaning": "a protocol’s capacity to handle higher demand and increase transaction throughput as the network grows"
+  },
+  {
     "term": "rug pull",
     "meaning": "Rug pulling is a scam technique in which a crypto enterprise takes the monies invested in its protocol and runs with them. If someone can sell a significant amount of the circulating supply, the supply will rapidly expand, causing the asset's price to drop."
   },
   {
+    "term": "rekt",
+    "meaning": "as in “wrecked,” used to express that one has suffered a huge loss."
+  },
+  {
     "term": "protocol",
     "meaning": "A program's basic software layer is called a protocol. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
+  },
+  {
+    "term": "play to earn",
+    "meaning": "a business model for the video game industry that allows players to earn digital assets they can sell for money in a marketplace. Many of the assets are NFTs, such as a game skin, cool weapon, or an animal to breed. Examples include Axie Infinity, ZED RUN, Splinterlands, and Cryptofighters."
   },
   {
     "term": "consensus",
@@ -408,6 +440,10 @@
     "meaning": "Lamborghini"
   },
   {
+    "term": "PFP",
+    "meaning": "profile picture, usually referring to one of an NFT"
+  },
+  {
     "term": "L1",
     "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
@@ -526,6 +562,10 @@
   {
     "term": "Ethereum Request for Comments",
     "meaning": "Ethereum Request for Comments is the standard smart contract outline on which Ethereum-based smart contracts are built."
+  },
+  {
+    "term": "floor",
+    "meaning": "the floor or floor price is the lowest price to buy an NFT on the secondary market. It’s the most popular metric for tracking an NFT collection’s performance over time and comparing it to others."
   },
   {
     "term": "Few",
