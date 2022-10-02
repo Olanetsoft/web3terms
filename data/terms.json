@@ -76,6 +76,14 @@
     "meaning": "The 'read-write web,' which began in the 1990s, is distinguished by user-generated content and enhanced user interfaces. Web2 emphasizes user experience and interoperability across different applications and websites, resulting in an extensive network of linked websites."
   },
   {
+    "term": "web3",
+    "meaning": "The 'decentralized web' is the set of web applications that don't rely on centralized server/entities to work. Common features of Web3 are the use of smart contracts and decentralized file storage. Key is the focus on the user, who keeps control of its actions, data and content."
+  },
+  {
+    "term": "web3.0",
+    "meaning": "The 'decentralized web' is the set of web applications that don't rely on centralized server/entities to work. Common features of Web3 are the use of smart contracts and decentralized file storage. Key is the focus on the user, who keeps control of its actions, data and content."
+  },
+  {
     "term": "ethereum",
     "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
   },
