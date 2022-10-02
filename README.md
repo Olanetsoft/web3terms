@@ -35,29 +35,34 @@ yarn
 
 ## 🥂 After making a change
 
-1. Create a new branch
+1. Sort the file
+```
+yarn run sort
+```
+
+2. Create a new branch
 ```bash
 git checkout -b Your-branch-ame
 ```
 
-2. Add changes 
+3. Add changes 
 ```bash
 git add .
 ```
 
-3. Add a commit message
+4. Add a commit message
 ```bash
 git commit -m"<your message>"
 ```
 
-4. Push your changes
+5. Push your changes
 ```bash
 git push
 ```
 
-5. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+6. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-6. Congratulations 🙌🏼
+7. Congratulations 🙌🏼
 
 
 ## 🔀 Connecting to Twitter
