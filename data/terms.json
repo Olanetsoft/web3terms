@@ -4,6 +4,26 @@
     "meaning": "Blockchain is a decentralized digital ledger that anyone can access and can be used to store and transfer data without the need for a central authority. Blockchains are the underlying technology that allows cryptocurrency systems like Bitcoin and Ethereum to function."
   },
   {
+    "term": "faucet",
+    "meaning": "A faucet in the web3 world refers to a website, application or any system that gives tokens to its users upon making a request. This token can either be free or awarded for performing certain tasks."
+  },
+  {
+    "term": "hot wallet",
+    "meaning": "A hot wallet mainly refers to an application or a software that is connected to the internet and helps you in managing you crypto holdings online. Since this wallet is conneected to the internet, it might be vulnerable to security issues. Example: Metamask, Coinbase."
+  },
+  {
+    "term": "abi",
+    "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
+  },
+  {
+    "term": "evm",
+    "meaning": "EVM os ethereum virtual machine is basicaly an application used by developers to deploy decentraliized applications on the ethereum blockchain. It is what defines the set of rules for computing a new valid state from one block to the other."
+  },
+  {
+    "term": "cold wallet",
+    "meaning": "A cold wallet refers to a wallet which is not connected to the internet. It is a way of storing your cryptocurrencies offline, in a device that is usually protected with a PIN/password thereby adding two additional layers of security. Example: Paper wallet, USB wallet."
+  },
+  {
     "term": "bitcoin",
     "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
   },
