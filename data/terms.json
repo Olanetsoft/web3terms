@@ -4,6 +4,26 @@
     "meaning": "Blockchain is a decentralized digital ledger that anyone can access and can be used to store and transfer data without the need for a central authority. Blockchains are the underlying technology that allows cryptocurrency systems like Bitcoin and Ethereum to function."
   },
   {
+    "term": "faucet",
+    "meaning": "A faucet in the web3 world refers to a website, application or any system that gives tokens to its users upon making a request. This token can either be free or awarded for performing certain tasks."
+  },
+  {
+    "term": "hot wallet",
+    "meaning": "A hot wallet mainly refers to an application or a software that is connected to the internet and helps you in managing you crypto holdings online. Since this wallet is conneected to the internet, it might be vulnerable to security issues. Example: Metamask, Coinbase."
+  },
+  {
+    "term": "abi",
+    "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
+  },
+  {
+    "term": "evm",
+    "meaning": "EVM os ethereum virtual machine is basicaly an application used by developers to deploy decentraliized applications on the ethereum blockchain. It is what defines the set of rules for computing a new valid state from one block to the other."
+  },
+  {
+    "term": "cold wallet",
+    "meaning": "A cold wallet refers to a wallet which is not connected to the internet. It is a way of storing your cryptocurrencies offline, in a device that is usually protected with a PIN/password thereby adding two additional layers of security. Example: Paper wallet, USB wallet."
+  },
+  {
     "term": "bitcoin",
     "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
   },
@@ -76,6 +96,14 @@
     "meaning": "The 'read-write web,' which began in the 1990s, is distinguished by user-generated content and enhanced user interfaces. Web2 emphasizes user experience and interoperability across different applications and websites, resulting in an extensive network of linked websites."
   },
   {
+    "term": "web3",
+    "meaning": "The 'decentralized web' is the set of web applications that don't rely on centralized server/entities to work. Common features of Web3 are the use of smart contracts and decentralized file storage. Key is the focus on the user, who keeps control of its actions, data and content."
+  },
+  {
+    "term": "web3.0",
+    "meaning": "The 'decentralized web' is the set of web applications that don't rely on centralized server/entities to work. Common features of Web3 are the use of smart contracts and decentralized file storage. Key is the focus on the user, who keeps control of its actions, data and content."
+  },
+  {
     "term": "ethereum",
     "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
   },
@@ -109,7 +137,7 @@
   },
   {
     "term": "wallet",
-    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
+    "meaning": "A wallet is a software application or hardware device that holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
   },
   {
     "term": "dex",
@@ -121,15 +149,15 @@
   },
   {
     "term": "decentralized",
-    "meaning": "It's a system that runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
+    "meaning": "A decentralized system runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
   },
   {
     "term": "dyor",
-    "meaning": "This phrase reminds people to do their research before investing in a specific asset."
+    "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
   },
   {
     "term": "do your own research",
-    "meaning": "This reminds people to do their research before investing in a specific asset."
+    "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
   },
   {
     "term": "slippage",
@@ -141,11 +169,11 @@
   },
   {
     "term": "fork (hard)",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+    "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
     "term": "hard fork",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+    "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
     "term": "fork (soft)",
@@ -165,7 +193,7 @@
   },
   {
     "term": "full node",
-    "meaning": "This blockchain node verifies and relays transactions while also storing the blockchain's entire history."
+    "meaning": "A full node is a blockchain node that verifies and relays transactions while also storing the blockchain's entire history."
   },
   {
     "term": "fractionalize",
@@ -237,7 +265,7 @@
   },
   {
     "term": "protocol",
-    "meaning": "A program's basic software layer is called a protocol. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
+    "meaning": "A protocol is a program's basic software layer. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
   },
   {
     "term": "play to earn",
@@ -281,7 +309,7 @@
   },
   {
     "term": "node",
-    "meaning": "Any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
+    "meaning": "A node is any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
   },
   {
     "term": "nft",
@@ -293,7 +321,7 @@
   },
   {
     "term": "to the moon",
-    "meaning": "This term suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
+    "meaning": "The term to the moon suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
   },
   {
     "term": "mainnet",
@@ -357,11 +385,11 @@
   },
   {
     "term": "gas fees",
-    "meaning": "This is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
+    "meaning": "Gas fee is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "gas fee",
-    "meaning": "The is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
+    "meaning": "Gas fee is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "hodl",
@@ -377,11 +405,11 @@
   },
   {
     "term": "buy the dip",
-    "meaning": "This is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
+    "meaning": "Buy the dip, is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
   },
   {
     "term": "opensea",
-    "meaning": "It is the world's largest NFT exchange, specializing in ethereum-based NFTs."
+    "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
   {
     "term": "multichain",
@@ -393,7 +421,7 @@
   },
   {
     "term": "cryptography",
-    "meaning": "A type of data encryption in which data can only be decrypted with the use of a key."
+    "meaning": "Cryptography is a type of data encryption in which data can only be decrypted with the use of a key."
   },
   {
     "term": "governance token",
@@ -445,15 +473,15 @@
   },
   {
     "term": "L1",
-    "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
+    "meaning": "L1 is a trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
   {
     "term": "L2",
-    "meaning": "Distributed system complimenting L1 providing fast and scalable transaction processing."
+    "meaning": "L2 is a distributed system complimenting L1 providing fast and scalable transaction processing."
   },
   {
     "term": "plebble",
-    "meaning": "P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
+    "meaning": "Plebble is a P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
   },
   {
     "term": "Yield Farming",
@@ -605,11 +633,11 @@
   },
   {
     "term": "orphan block",
-    "meaning": "Orphan bloc is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
+    "meaning": "Orphan block is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
   },
   {
     "term": "blockchain trilemma",
-    "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
+    "meaning": "A blockchain trilemma is a difficult choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
   },
   {
     "term": "shit coin",
@@ -626,6 +654,13 @@
   {
     "term": "Game Fi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
+  },
+  {
+    "term": "Proof-of-Stake",
+    "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
+  },
+  { "term": "PoS",
+    "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
   },
   {
     "term": "tokenization",
