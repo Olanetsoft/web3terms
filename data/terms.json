@@ -1,6 +1,6 @@
 [
   {
-    "term": "ABI",
+    "term": "abi",
     "meaning": "ABI is the standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
   },
   {
@@ -12,11 +12,11 @@
     "meaning": "Airdrop is a marketing strategy in which crypto projects send their native tokens directly to their users' wallets to enhance adoption and awareness."
   },
   {
-    "term": "All Time High",
+    "term": "all time high",
     "meaning": "All Time High is the highest price an asset has ever had."
   },
   {
-    "term": "All Time Low",
+    "term": "all time low",
     "meaning": "All Time Low is the lowest price an asset has ever had."
   },
   {
@@ -24,19 +24,19 @@
     "meaning": "Allocation is the allotment of equity or tokens that may be earned, bought, or reserved for a specific team, group, investor, institution, or another similar entity"
   },
   {
-    "term": "Alpha",
+    "term": "alpha",
     "meaning": "Alpha is a valuable or insider information, usually regarding the value of digital assets like cryptocurrencies and NFTs"
   },
   {
-    "term": "Altcoin",
+    "term": "altcoin",
     "meaning": "Altcoin is initially used to refer to any cryptocurrency that wasn’t Bitcoin, altcoin may now refer to any new cryptocurrency with a relatively small market cap."
   },
   {
-    "term": "Alts",
+    "term": "alts",
     "meaning": "Alts is short for altcoins."
   },
   {
-    "term": "Ape",
+    "term": "ape",
     "meaning": "Ape is someone who invests heavily into a cryptocurrency or stock or the act of doing so. This is sometimes a reaction to hype and FOMO or done without much knowledge of the asset."
   },
   {
@@ -44,19 +44,19 @@
     "meaning": "Apeing is when a cryptocurrency trader buys a token shortly after the token project launch without conducting thorough research."
   },
   {
-    "term": "Ath",
+    "term": "ath",
     "meaning": "All Time High is the highest price an asset has ever had."
   },
   {
-    "term": "ATL",
+    "term": "atl",
     "meaning": "All Time Low is the lowest price an asset has ever had."
   },
   {
-    "term": "Bear Market",
+    "term": "bear market",
     "meaning": "Bear Market is a prolonged period of decline in a financial market."
   },
   {
-    "term": "Bearish",
+    "term": "bearish",
     "meaning": "Bearish is similar to a bear market, this refers to holding a pessimistic view of a market or asset’s value. If you are bearish on a certain cryptocurrency, you believe its value will decrease over time."
   },
   {
@@ -96,7 +96,7 @@
     "meaning": "In the same way that 'HODL' is a warping of the word 'hold,' BUIDL is a warping of the word 'build.' Instead of passively retaining, BUIDL is a call to arms for growing and contributing to the blockchain and cryptocurrency ecosystem."
   },
   {
-    "term": "Bull Market",
+    "term": "bull market",
     "meaning": "Bull Market is a prolonged period of growth in a financial market."
   },
   {
@@ -112,7 +112,7 @@
     "meaning": "Buy the dip, is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
   },
   {
-    "term": "Byzantine Fault Tolerance",
+    "term": "byzantine fault tolerance",
     "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
   },
   {
@@ -120,19 +120,19 @@
     "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
   },
   {
-    "term": "Centralized",
+    "term": "centralized",
     "meaning": "Centralized is a hierarchical structure in which authority and control are concentrated within a small group of decision makers."
   },
   {
-    "term": "Centralized Exchange",
+    "term": "centralized exchange",
     "meaning": "Centralized Exchange a cryptocurrency exchange managed by a centralized business or entity. e.g Coinbase etc."
   },
   {
-    "term": "Centralized Finance",
+    "term": "centralized finance",
     "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
   },
   {
-    "term": "Cex",
+    "term": "cex",
     "meaning": "Centralized Exchange a cryptocurrency exchange managed by a centralized business or entity. e.g Coinbase etc."
   },
   {
@@ -180,11 +180,11 @@
     "meaning": "A Dapp is a blockchain-based application built with open-source technology. Dapps live independently of centralized groups or figures, and they frequently use awarded tokens to incentivize users to keep them up to date."
   },
   {
-    "term": "Dapps",
+    "term": "dapps",
     "meaning": "A decentralised application is an application that can operate autonomously, typically through the use of smart contracts, that run on a decentralized computing, blockchain or other distributed ledger system"
   },
   {
-    "term": "Data",
+    "term": "data",
     "meaning": "Data in the context of the internet refers to a user’s personal information."
   },
   {
@@ -216,7 +216,7 @@
     "meaning": "DeFi is an ecosystem of borderless, trustless, peer-to-peer financial instruments developed on public blockchains without banks. Learn more 👉 https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5"
   },
   {
-    "term": "Degen",
+    "term": "degen",
     "meaning": "Degen is initially short for “degenerate gambler.” While this still refers to individuals involved with risky bets, degen may also refer more broadly to anyone involved in crypto and financial spaces."
   },
   {
@@ -224,15 +224,15 @@
     "meaning": "DEX (Decentralized Exchange) is a blockchain-based peer-to-peer cryptocurrency exchange. Instead of an intermediary person or centralized institution, a DEX is run by its users and smart contracts."
   },
   {
-    "term": "Diamond Hands",
+    "term": "diamond hands",
     "meaning": "Diamond Hands implies that you are extremely bullish on a specific asset, and have no plans to sell regardless of market volatility, FUD, or extreme drops in price."
   },
   {
-    "term": "Difficulty",
+    "term": "difficulty",
     "meaning": "Difficulty is the computing power needed to verify transactions and mine blocks on a proof-of-work blockchain."
   },
   {
-    "term": "Difficulty Bomb",
+    "term": "difficulty bomb",
     "meaning": "Difficulty Bomb is increasing the difficulty of a proof-of-work blockchain to motivate the transition to another consensus algorithm (such as proof-of-stake in the case of Ethereum)."
   },
   {
@@ -244,7 +244,7 @@
     "meaning": "This reminds people to do their research before investing in a specific asset."
   },
   {
-    "term": "Due Diligence",
+    "term": "due diligence",
     "meaning": "Due Diligence is the process of conducting your research on a cryptocurrency, stock, or other assets before investing. Doing your own DD is essential, as opposed to making an investment based on what someone else says or does."
   },
   {
@@ -256,11 +256,11 @@
     "meaning": "This phrase reminds people to do their research before investing in a specific asset."
   },
   {
-    "term": "EIP",
+    "term": "eip",
     "meaning": "EIP is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
   },
   {
-    "term": "ERC",
+    "term": "erc",
     "meaning": "ERC is the standard smart contract outline on which Ethereum-based smart contracts are built."
   },
   {
@@ -284,11 +284,11 @@
     "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
   },
   {
-    "term": "Ethereum Improvement Proposal",
+    "term": "ethereum improvement proposal",
     "meaning": "Ethereum Improvement Proposal is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
   },
   {
-    "term": "Ethereum Request for Comments",
+    "term": "ethereum request for comments",
     "meaning": "Ethereum Request for Comments is the standard smart contract outline on which Ethereum-based smart contracts are built."
   },
   {
@@ -308,11 +308,11 @@
     "meaning": "FOMO is a sensation of worry caused by missing out on a chance. It usually occurs when investors acquire an asset after it has already experienced a significant price increase, hoping to get in and out before a pullback occurs."
   },
   {
-    "term": "Few",
+    "term": "few",
     "meaning": "Few is short for “Few understand”. A rallying cry that crypto folks are still early in this space and will make a lot of money when mass adoption comes."
   },
   {
-    "term": "Fiat",
+    "term": "fiat",
     "meaning": "Fiat is a currency that is used to purchase crypto. Fiat is a form of money that is not backed by any crypto."
   },
   {
@@ -320,7 +320,7 @@
     "meaning": "Finality is the assurance that blockchain transactions, once completed, cannot be altered, reversed canceled. The blockchain latency level affects the finality rate."
   },
   {
-    "term": "Flippening",
+    "term": "flippening",
     "meaning": "Flippening is a reference to the possible event of Ethereum becoming more valuable than Bitcoin, in terms of market cap."
   },
   {
@@ -368,15 +368,15 @@
     "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
   },
   {
-    "term": "Game Fi",
+    "term": "game fi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
   },
   {
-    "term": "Game Fi",
+    "term": "game fi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
   },
   {
-    "term": "GameFi",
+    "term": "gamefi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
   },
   {
@@ -436,23 +436,23 @@
     "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
   },
   {
-    "term": "IPFS",
+    "term": "ipfs",
     "meaning": "IPFS stands for InterPlanetary File System. It's a protocol, an hypermedia, a file sharing p2p network. It's used for storing/sharing data in a distributed file system. It uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts."
   },
   {
-    "term": "L1",
+    "term": "l1",
     "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
   {
-    "term": "L1",
+    "term": "l1",
     "meaning": "L1 is a trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
   {
-    "term": "L2",
+    "term": "l2",
     "meaning": "Distributed system complimenting L1 providing fast and scalable transaction processing."
   },
   {
-    "term": "L2",
+    "term": "l2",
     "meaning": "L2 is a distributed system complimenting L1 providing fast and scalable transaction processing."
   },
   {
@@ -480,7 +480,7 @@
     "meaning": "The consensus mechanism is how nodes on a blockchain agree on a transaction or the network's current state."
   },
   {
-    "term": "Merkle tree",
+    "term": "merkle tree",
     "meaning": "A Merkle tree (also called hash tree) is a tree in which leaf nodes are labeled with the cryptographic hash of a data block and every non-leaf node is labeled with the cryptographic hash of the labels of its child."
   },
   {
@@ -552,7 +552,7 @@
     "meaning": "peer to peer refers to a network of two or more computers that communicate directly without a central server or entity."
   },
   {
-    "term": "PFP",
+    "term": "pfp",
     "meaning": "profile picture, usually referring to one of an NFT"
   },
   {
@@ -568,7 +568,7 @@
     "meaning": "Proof of Stake"
   },
   {
-    "term": "PoS",
+    "term": "pos",
     "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
   },
   {
@@ -584,7 +584,7 @@
     "meaning": "PoW is a consensus process in which miners must solve complicated mathematical problems to verify transactions and mint blocks. When miners solve a challenge correctly, they acquire permission to mint the next block and receive the block reward and transaction fees."
   },
   {
-    "term": "Proof-of-Stake",
+    "term": "proof-of-stake",
     "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
   },
   {
@@ -696,7 +696,7 @@
     "meaning": "Transaction Hash (Txn Hash) is a long string of letters and digits that serves as a unique identifier for a given transaction. You may find the specifics of a transaction by pasting a txn hash into a block explorer like Etherscan."
   },
   {
-    "term": "Transactions per second",
+    "term": "transactions per second",
     "meaning": "TPS - the number of transactions that a blockchain can handle per second, used as a benchmark to measure its computational power."
   },
   {
