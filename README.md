@@ -133,3 +133,7 @@ You might want to push this app to a running server, [here is a curated list you
 Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/web3terms)](https://github.com/Olanetsoft/web3terms/edit/develop/README.md)
+
+### Thanks to all Stargazers ⭐️
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/web3terms?limit=15)](https://github.com/Olanetsoft/web3terms)
