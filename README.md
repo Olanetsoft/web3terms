@@ -35,29 +35,34 @@ yarn
 
 ## 🥂 After making a change
 
-1. Create a new branch
+1. Sort the file
+```
+yarn run sort
+```
+
+2. Create a new branch
 ```bash
 git checkout -b Your-branch-ame
 ```
 
-2. Add changes 
+3. Add changes 
 ```bash
 git add .
 ```
 
-3. Add a commit message
+4. Add a commit message
 ```bash
 git commit -m"<your message>"
 ```
 
-4. Push your changes
+5. Push your changes
 ```bash
 git push
 ```
 
-5. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+6. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-6. Congratulations 🙌🏼
+7. Congratulations 🙌🏼
 
 
 ## 🔀 Connecting to Twitter
@@ -133,3 +138,7 @@ You might want to push this app to a running server, [here is a curated list you
 Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/web3terms)](https://github.com/Olanetsoft/web3terms/edit/develop/README.md)
+
+### Thanks to all Stargazers ⭐️
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/web3terms?limit=15)](https://github.com/Olanetsoft/web3terms)
