@@ -125,6 +125,11 @@ You might want to push this app to a running server, [here is a curated list you
 
 > Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
 
+### **Note to Contributors**
+
++ All web3 terms in the ```data/terms.json``` directory should be in lower case.
++ Look to ensure that newly added terms aren't already available to avoid repitition of terms and key words.
+
 
 ### 🫂 Credits
 
