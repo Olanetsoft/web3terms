@@ -137,7 +137,7 @@
   },
   {
     "term": "wallet",
-    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
+    "meaning": "A wallet is a software application or hardware device that holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
   },
   {
     "term": "dex",
@@ -149,15 +149,15 @@
   },
   {
     "term": "decentralized",
-    "meaning": "It's a system that runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
+    "meaning": "A decentralized system runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
   },
   {
     "term": "dyor",
-    "meaning": "This phrase reminds people to do their research before investing in a specific asset."
+    "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
   },
   {
     "term": "do your own research",
-    "meaning": "This reminds people to do their research before investing in a specific asset."
+    "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
   },
   {
     "term": "slippage",
@@ -169,11 +169,11 @@
   },
   {
     "term": "fork (hard)",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+    "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
     "term": "hard fork",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
+    "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
     "term": "fork (soft)",
@@ -193,7 +193,7 @@
   },
   {
     "term": "full node",
-    "meaning": "This blockchain node verifies and relays transactions while also storing the blockchain's entire history."
+    "meaning": "A full node is a blockchain node that verifies and relays transactions while also storing the blockchain's entire history."
   },
   {
     "term": "fractionalize",
@@ -265,7 +265,7 @@
   },
   {
     "term": "protocol",
-    "meaning": "A program's basic software layer is called a protocol. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
+    "meaning": "A protocol is a program's basic software layer. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
   },
   {
     "term": "play to earn",
@@ -309,7 +309,7 @@
   },
   {
     "term": "node",
-    "meaning": "Any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
+    "meaning": "A node is any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
   },
   {
     "term": "nft",
@@ -321,7 +321,7 @@
   },
   {
     "term": "to the moon",
-    "meaning": "This term suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
+    "meaning": "The term to the moon suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
   },
   {
     "term": "mainnet",
@@ -385,11 +385,11 @@
   },
   {
     "term": "gas fees",
-    "meaning": "This is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
+    "meaning": "Gas fee is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "gas fee",
-    "meaning": "The is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
+    "meaning": "Gas fee is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "hodl",
@@ -405,11 +405,11 @@
   },
   {
     "term": "buy the dip",
-    "meaning": "This is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
+    "meaning": "Buy the dip, is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
   },
   {
     "term": "opensea",
-    "meaning": "It is the world's largest NFT exchange, specializing in ethereum-based NFTs."
+    "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
   {
     "term": "multichain",
@@ -421,7 +421,7 @@
   },
   {
     "term": "cryptography",
-    "meaning": "A type of data encryption in which data can only be decrypted with the use of a key."
+    "meaning": "Cryptography is a type of data encryption in which data can only be decrypted with the use of a key."
   },
   {
     "term": "governance token",
@@ -473,15 +473,15 @@
   },
   {
     "term": "L1",
-    "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
+    "meaning": "L1 is a trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
   {
     "term": "L2",
-    "meaning": "Distributed system complimenting L1 providing fast and scalable transaction processing."
+    "meaning": "L2 is a distributed system complimenting L1 providing fast and scalable transaction processing."
   },
   {
     "term": "plebble",
-    "meaning": "P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
+    "meaning": "Plebble is a P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
   },
   {
     "term": "Yield Farming",
@@ -633,11 +633,11 @@
   },
   {
     "term": "orphan block",
-    "meaning": "Orphan bloc is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
+    "meaning": "Orphan block is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
   },
   {
     "term": "blockchain trilemma",
-    "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
+    "meaning": "A blockchain trilemma is a difficult choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
   },
   {
     "term": "shit coin",
