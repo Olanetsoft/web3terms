@@ -661,5 +661,13 @@
   },
   { "term": "PoS",
     "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
+  },
+  {
+    "term": "tokenization",
+    "meaning": "Tokenization is the process of exchanging sensitive data for nonsensitive data called tokens that can be used in a database or internal system without bringing it into scope."
+  },
+  {
+    "term": "Dapps",
+    "meaning": "A decentralised application is an application that can operate autonomously, typically through the use of smart contracts, that run on a decentralized computing, blockchain or other distributed ledger system"
   }
 ]
