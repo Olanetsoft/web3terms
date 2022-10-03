@@ -654,5 +654,12 @@
   {
     "term": "Game Fi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
+  },
+  {
+    "term": "Proof-of-Stake",
+    "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
+  },
+  { "term": "PoS",
+    "meaning": "Proof-of-stake is a type of consensus mechanism used to process and verify transactions, and add them to the blockchain, through staking."
   }
 ]
