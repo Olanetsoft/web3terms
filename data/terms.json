@@ -758,5 +758,9 @@
   {
     "term": "Yield Farming",
     "meaning": "Yield farming is the process of using decentralized finance (DeFi) to maximize returns. Users lend or borrow crypto on a DeFi platform and earn cryptocurrency in return for their services."
-  }
+  },
+  {
+    "term": "Hash Rate",
+    "meaning": "Measurement of performance that reveals how many hashes per second your computer is capable of producing. Each hash is an attempt to find a block by creating a unique block candidate and testing it against the network."
+  },
 ]
