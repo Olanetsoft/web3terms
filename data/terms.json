@@ -416,12 +416,32 @@
     "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
+    "term": "hash rate",
+    "meaning": "Hash rate is the number of attempts per second for the entirety of a blockchain."
+  },
+  {
+    "term": "hashing",
+    "meaning": " Hashing is a function that takes data and creates a completely unique hash value."
+  },
+  {
     "term": "hodl",
     "meaning": "Hodl is a cryptocurrency technique in which traders are 'hodling on for dear life,' as the name implies. This means that a trader must refrain from selling the cryptocurrency token, even at periods when its value is extremely volatile."
   },
   {
+    "term": "Holding the bag",
+    "meaning": "Holding the bag is a slang term used to describe a situation where an investor is left holding a worthless asset after a price crash."
+  },
+  {
     "term": "hot wallet",
     "meaning": "A hot wallet mainly refers to an application or a software that is connected to the internet and helps you in managing you crypto holdings online. Since this wallet is conneected to the internet, it might be vulnerable to security issues. Example: Metamask, Coinbase."
+  },
+  {
+    "term": "hsvp",
+    "meaning": "have fun staying poor."
+  },
+  {
+    "term": "hype",
+    "meaning": "Hype is a term used to describe the excitement surrounding a new project or asset."
   },
   {
     "term": "ico",
