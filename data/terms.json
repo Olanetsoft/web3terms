@@ -557,7 +557,7 @@
   },
   {
     "term": "play to earn",
-    "meaning": "Play To Earn: is a business model for the video game industry that allows players to earn digital assets they can sell for money in a marketplace. Many of the assets are NFTs, such as a game skin, cool weapon, or an animal to breed. Examples include Axie Infinity, ZED RUN, Splinterlands, and Cryptofighters."
+    "meaning": "Play To Earn: is a business model for the video game industry that allows players to earn digital assets they can sell for money in a marketplace. Many of the assets are NFTs, such as a game skin or a cool weapon. Examples include Axie Infinity, ZED RUN, and Cryptofighters."
   },
   {
     "term": "plebble",
@@ -621,11 +621,11 @@
   },
   {
     "term": "sha-256",
-    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. This hash is then used to represent the data securely."
+    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. It is then used to represent data securely."
   },
   {
     "term": "sha256",
-    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. This hash is then used to represent the data securely."
+    "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. It is then used to represent data securely."
   },
   {
     "term": "sharding",
@@ -653,7 +653,7 @@
   },
   {
     "term": "smart contract",
-    "meaning": "A smart contract is a self-executing code that is deployed on a blockchain. Smart contracts eliminate the requirement for a central authority, legal system, or external enforcement mechanism to carry out trustworthy transactions and agreements between distant, anonymous participants."
+    "meaning": "A smart contract is a self-executing code deployed on a blockchain. Smart contracts eliminate the requirement for a central authority, legal system, or external enforcement mechanism to carry out trustworthy transactions and agreements between distant, anonymous participants."
   },
   {
     "term": "soft fork",
@@ -713,11 +713,11 @@
   },
   {
     "term": "wallet",
-    "meaning": "A wallet is a software application or hardware device that holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
+    "meaning": "A wallet is a software application or hardware device that holds the private keys to blockchain assets and accounts. A blockchain wallet does not contain  currencies or tokens themselves, Instead, they save the private key that certifies a digital asset's ownership."
   },
   {
     "term": "wallet",
-    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. Unlike a typical wallet, a blockchain wallet does not contain the currencies or tokens themselves. Instead, they save the private key that certifies a digital asset's ownership."
+    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. It is a digital wallet that allows users to store and manage their cryptocurrencies."
   },
   {
     "term": "wallet address",
