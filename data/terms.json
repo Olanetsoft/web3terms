@@ -40,6 +40,14 @@
     "meaning": "Ape is someone who invests heavily into a cryptocurrency or stock or the act of doing so. This is sometimes a reaction to hype and FOMO or done without much knowledge of the asset."
   },
   {
+    "term": "arbitrum",
+    "meaning": "Arbitrum is an Ethereum layer 2 scaling solution that reduces fees and network congestion by computing transactions outside of the Ethereum Mainnet. Arbitrum's rollups use multi-round fraud proofs to verify contracts were executed correctly."
+  },
+  {
+    "term": "archival nodes",
+    "meaning": "An archival node is a full node in the blockchain that keeps a complete history of transactions and address state changes since the genesis block. Blocknative enables users to see archival mempool information on public blockchain networks."
+  },
+  {
     "term": "apeing",
     "meaning": "Apeing is when a cryptocurrency trader buys a token shortly after the token project launch without conducting thorough research."
   },
@@ -50,6 +58,10 @@
   {
     "term": "atl",
     "meaning": "All Time Low is the lowest price an asset has ever had."
+  },
+   {
+    "term": "base fee",
+    "meaning": "The base fee is an algorithmically determined fee that users on the Ethereum blockchain must pay to complete a transaction. Depending on how full the new block is, the Base Fee is automatically increased (block is more than 50% full) or decreased (block is less than 50% full)."
   },
   {
     "term": "bear market",
@@ -282,6 +294,10 @@
   {
     "term": "ethereum",
     "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
+  },
+  {
+    "term": "ethereum 2.0",
+    "meaning": "Ethereum 2.0 is a deprecated term that was used to describe the consensus layer of Ethereum as part of it's migration from a Proof-of-Work consensus mechanism to Proof-of-Stake consensus. Additionally, Eth1 is now referred to as the execution layer."
   },
   {
     "term": "ethereum improvement proposal",
