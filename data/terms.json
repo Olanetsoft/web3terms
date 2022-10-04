@@ -263,6 +263,10 @@
     "term": "erc",
     "meaning": "ERC is the standard smart contract outline on which Ethereum-based smart contracts are built."
   },
+   {
+    "term": "epns",
+    "meaning": "Ethereum Push Notification Service is a notification protocol that enables users to receive notifications"
+  },
   {
     "term": "erc-1155",
     "meaning": "ERC-1155 is an Ethereum token standard that allows a single, smart contract to manage fungible, non-fungible simultaneously, and semi-fungible tokens. These are often employed in gaming and collector trading to reduce the number of transactions required."
