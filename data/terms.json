@@ -412,10 +412,6 @@
     "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
-    "term": "hard fork",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
-  },
-  {
     "term": "hash rate",
     "meaning": "Hash rate is the number of attempts per second for the entirety of a blockchain."
   },
