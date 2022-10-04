@@ -42,7 +42,7 @@ yarn run sort
 
 2. Create a new branch
 ```bash
-git checkout -b Your-branch-ame
+git checkout -b <Your-branch-name>
 ```
 
 3. Add changes 
@@ -52,7 +52,7 @@ git add .
 
 4. Add a commit message
 ```bash
-git commit -m"<your message>"
+git commit -m "<your message>"
 ```
 
 5. Push your changes
@@ -77,7 +77,9 @@ git push
 + "Permissons" tab :  Enable `Read and Write` 
 + "Key and Access Token" tab : Click on `Generate access token`. 
 5. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
+
 It should look like this:
+```sh
 PORT=xxxx
 NODE_ENV=development
 
@@ -89,7 +91,7 @@ TWITTER_CONSUMER_SECRET=xxxx
 
 TWITTER_ACCESS_TOKEN=xxxx
 TWITTER_ACCESS_TOKEN_SECRET=xxxx
-            
+```
 6. Type the following in the command line in your project directory to start the project
 
 ```bash
