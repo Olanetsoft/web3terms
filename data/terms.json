@@ -40,16 +40,16 @@
     "meaning": "Ape is someone who invests heavily into a cryptocurrency or stock or the act of doing so. This is sometimes a reaction to hype and FOMO or done without much knowledge of the asset."
   },
   {
+    "term": "apeing",
+    "meaning": "Apeing is when a cryptocurrency trader buys a token shortly after the token project launch without conducting thorough research."
+  },
+  {
     "term": "arbitrum",
     "meaning": "Arbitrum is an Ethereum layer 2 scaling solution that reduces fees and network congestion by computing transactions outside of the Ethereum Mainnet. Arbitrum's rollups use multi-round fraud proofs to verify contracts were executed correctly."
   },
   {
     "term": "archival nodes",
     "meaning": "An archival node is a full node in the blockchain that keeps a complete history of transactions and address state changes since the genesis block. Blocknative enables users to see archival mempool information on public blockchain networks."
-  },
-  {
-    "term": "apeing",
-    "meaning": "Apeing is when a cryptocurrency trader buys a token shortly after the token project launch without conducting thorough research."
   },
   {
     "term": "ath",
@@ -59,7 +59,7 @@
     "term": "atl",
     "meaning": "All Time Low is the lowest price an asset has ever had."
   },
-   {
+  {
     "term": "base fee",
     "meaning": "The base fee is an algorithmically determined fee that users on the Ethereum blockchain must pay to complete a transaction. Depending on how full the new block is, the Base Fee is automatically increased (block is more than 50% full) or decreased (block is less than 50% full)."
   },
@@ -272,12 +272,12 @@
     "meaning": "EIP is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
   },
   {
-    "term": "erc",
-    "meaning": "ERC is the standard smart contract outline on which Ethereum-based smart contracts are built."
-  },
-   {
     "term": "epns",
     "meaning": "Ethereum Push Notification Service is a notification protocol that enables users to receive notifications"
+  },
+  {
+    "term": "erc",
+    "meaning": "ERC is the standard smart contract outline on which Ethereum-based smart contracts are built."
   },
   {
     "term": "erc-1155",
@@ -326,6 +326,10 @@
   {
     "term": "fear of missing out",
     "meaning": "FOMO is a sensation of worry caused by missing out on a chance. It usually occurs when investors acquire an asset after it has already experienced a significant price increase, hoping to get in and out before a pullback occurs."
+  },
+  {
+    "term": "fdv",
+    "meaning": "FDV stands for 'Fully diluted Valuation', A token’s FDV refers to the token's market cap once all the tokens have been released. Commonly used by investors in the crypto space when assessing a project"
   },
   {
     "term": "few",
