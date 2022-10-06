@@ -15,8 +15,8 @@ describe('Check definition Length', () => {
   const parsedData = JSON.parse(data);
 
   parsedData.forEach(termObject => {
-    it(`"${termObject.term}" definition should be less than or equal 290, got ${termObject.meaning?.length}`, () => {
-      expect(termObject.meaning?.length).toBeLessThanOrEqual(290);
+    it(`"${termObject.term}" definition should be less than or equal 280, got ${termObject.meaning?.length}`, () => {
+      expect(termObject.meaning?.length).toBeLessThanOrEqual(280);
     });
   });
 });
