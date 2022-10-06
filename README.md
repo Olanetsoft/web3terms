@@ -34,33 +34,37 @@ yarn
 
 
 ## 🥂 After making a change
-
 1. Sort the file
 ```
 yarn run sort
 ```
 
-2. Create a new branch
+2. Run a test to check all definition length
+```
+yarn test
+```
+
+3. Create a new branch
 ```bash
 git checkout -b <Your-branch-name>
 ```
 
-3. Add changes 
+4. Add changes 
 ```bash
 git add .
 ```
 
-4. Add a commit message
+5. Add a commit message
 ```bash
 git commit -m "<your message>"
 ```
 
-5. Push your changes
+6. Push your changes
 ```bash
 git push
 ```
 
-6. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+7. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 7. Congratulations 🙌🏼
 
