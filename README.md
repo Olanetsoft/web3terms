@@ -16,7 +16,25 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Web3 terms explanation ✅
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
-
++ Test Coverage ✅
++ Endpoint `/terms` to retrieve all terms ✅
+    + Response:
+    ```json
+        {
+            "previousPage": null,
+            "nextPage": "11",
+            "total": 203, // Updated regularly
+            "totalPages": 102, // Updated regularly
+            "items": [
+                {
+                    "term": "abi",
+                    "meaning": "ABI is the standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
+                },
+                
+                //...
+            ]
+        }
+   ```
 ## 🛠 Installation
 
 + Install [Node.js](http://nodejs.org/) on your PC
@@ -34,30 +52,39 @@ yarn
 
 
 ## 🥂 After making a change
-
-1. Create a new branch
-```bash
-git checkout -b Your-branch-ame
+1. Sort the file
+```
+yarn run sort
 ```
 
-2. Add changes 
+2. Run a test to check all definition length
+```
+yarn test
+```
+
+3. Create a new branch
+```bash
+git checkout -b <Your-branch-name>
+```
+
+4. Add changes 
 ```bash
 git add .
 ```
 
-3. Add a commit message
+5. Add a commit message
 ```bash
-git commit -m"<your message>"
+git commit -m "<your message>"
 ```
 
-4. Push your changes
+6. Push your changes
 ```bash
-git push
+git push --set-upstream origin <branch-name>
 ```
 
-5. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+7. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-6. Congratulations 🙌🏼
+8. Congratulations 🙌🏼
 
 
 ## 🔀 Connecting to Twitter
@@ -72,7 +99,9 @@ git push
 + "Permissons" tab :  Enable `Read and Write` 
 + "Key and Access Token" tab : Click on `Generate access token`. 
 5. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
+
 It should look like this:
+```sh
 PORT=xxxx
 NODE_ENV=development
 
@@ -84,7 +113,7 @@ TWITTER_CONSUMER_SECRET=xxxx
 
 TWITTER_ACCESS_TOKEN=xxxx
 TWITTER_ACCESS_TOKEN_SECRET=xxxx
-            
+```
 6. Type the following in the command line in your project directory to start the project
 
 ```bash
@@ -120,6 +149,11 @@ You might want to push this app to a running server, [here is a curated list you
 
 > Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
 
+### **Note to Contributors**
+
++ All web3 terms in the ```data/terms.json``` directory should be in lower case.
++ Look to ensure that newly added terms aren't already available to avoid repitition of terms and key words.
+
 
 ### 🫂 Credits
 
@@ -133,3 +167,7 @@ You might want to push this app to a running server, [here is a curated list you
 Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/web3terms)](https://github.com/Olanetsoft/web3terms/edit/develop/README.md)
+
+### Thanks to all Stargazers ⭐️
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/web3terms?limit=15)](https://github.com/Olanetsoft/web3terms)
