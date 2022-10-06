@@ -1,0 +1,56 @@
+{
+	"info": {
+		"_postman_id": "af2504f5-b334-4a70-8541-d2c5d7b19333",
+		"name": "web3terms",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6238258"
+	},
+	"item": [
+		{
+			"name": "all terms",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/terms",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"terms"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get terms with pagination",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/terms-with-pagination?page=2&limit=2",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"terms-with-pagination"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "2"
+						},
+						{
+							"key": "limit",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
