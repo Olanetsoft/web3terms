@@ -288,20 +288,20 @@
     "meaning": "Tokens represent many digital assets in the Ethereum system, including vouchers, IOUs, and even real-world, actual objects. ERC-20 is the Ethereum token standard, which provides fungible tokens with a standardized innovative contract structure."
   },
   {
-    "term": "erc-721",
-    "meaning": "ERC-721 is a standard for the creation of a new token standard that allows for the creation of a new token type that is not fungible. ERC-721 is used by the Ethereum Virtual Machine (EVM) to create a new token type that is not fungible."
+    "term": "erc-223",
+    "meaning": "ERC-223 allows users to send their tokens anywhere with one function 'transfer'. No difference between the receiver a contract or not. Also allows contract developers to handle incoming token transactions."
   },
   {
-    "term": "erc-777",
-    "meaning": "ERC-777 is a token standard for fungible tokens introduced on the Ethereum network that is fully compatible with existing decentralized exchanges and is focused around allowing more complex interactions when trading tokens."
+    "term": "erc-721",
+    "meaning": "ERC-721 is a standard for the creation of a new token standard that allows for the creation of a new token type that is not fungible. ERC-721 is used by the Ethereum Virtual Machine (EVM) to create a new token type that is not fungible."
   },
   {
     "term": "erc-725",
     "meaning": "ERC 725 is a proposed standard for blockchain-based identity. ERC 725 describes proxy smart contracts that can be controlled by multiple keys and other smart contracts. These identity smart contracts can describe humans, groups, objects, and machines."
   },
-   {
-    "term": "erc-223",
-    "meaning": "ERC-223 allows users to send their tokens anywhere with one function 'transfer'. No difference between the receiver a contract or not. Also allows contract developers to handle incoming token transactions."
+  {
+    "term": "erc-777",
+    "meaning": "ERC-777 is a token standard for fungible tokens introduced on the Ethereum network that is fully compatible with existing decentralized exchanges and is focused around allowing more complex interactions when trading tokens."
   },
   {
     "term": "ethereum",
