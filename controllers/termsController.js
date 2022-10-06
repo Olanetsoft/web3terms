@@ -6,7 +6,11 @@ const getTerms = async (req, res) => {
 
   const { page, limit } = req.query;
 
-  const result = await fetchTerms(page, limit, terms);
+  const result = await fetchTerms(
+    !!+page ? +page : 1,
+    !!+limit ? +limit : 10,
+    terms
+  );
   res.status(200).json(result);
 };
 
