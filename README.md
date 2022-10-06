@@ -17,14 +17,14 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 + Test Coverage ✅
-+ Endpoint `/terms` to retrieve all terms ✅
++ Endpoint `https://web3terms.herokuapp.com/terms` to retrieve all terms ✅
     + Response:
     ```json
         {
-            "previousPage": null,
-            "nextPage": "11",
-            "total": 203, // Updated regularly
-            "totalPages": 102, // Updated regularly
+            "previousPage": "xx",
+            "nextPage": "xx",
+            "total": xxx,
+            "totalPages": xxx,
             "items": [
                 {
                     "term": "abi",
@@ -35,6 +35,8 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
             ]
         }
    ```
+   + To filter, pass the query params `page` and/or `limit`.
+   
 ## 🛠 Installation
 
 + Install [Node.js](http://nodejs.org/) on your PC
