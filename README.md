@@ -18,7 +18,27 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Acknowledgement tweet ✅
 + Test Coverage ✅
 + Endpoint `/terms` to retrieve all terms ✅
+    + Response:
+    ```json
+        {
+            "previousPage": null,
+            "nextPage": "11", // Updated regularly
+            "total": 203, // Updated regularly
+            "totalPages": 102, // Updated regularly
+            "items": [
+                {
+                    "term": "abi",
+                    "meaning": "ABI is the standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
+                },
+                {
+                    "term": "abi",
+                    "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
+                },
 
+                ....
+            ]
+        }
+        ```
 ## 🛠 Installation
 
 + Install [Node.js](http://nodejs.org/) on your PC
@@ -63,12 +83,12 @@ git commit -m "<your message>"
 
 6. Push your changes
 ```bash
-git push
+git push --set-upstream origin <branch-name>
 ```
 
 7. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-7. Congratulations 🙌🏼
+8. Congratulations 🙌🏼
 
 
 ## 🔀 Connecting to Twitter
