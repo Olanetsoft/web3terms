@@ -301,7 +301,7 @@
   },
    {
     "term": "erc-223",
-    "meaning": "ERC-223 allows users to send their tokens anywhere with one function 'transfer'. No difference between is the receiver a contract or not. Also allows contract developers to handle incoming token transactions."
+    "meaning": "ERC-223 allows users to send their tokens anywhere with one function 'transfer'. No difference between the receiver a contract or not. Also allows contract developers to handle incoming token transactions."
   },
   {
     "term": "ethereum",
