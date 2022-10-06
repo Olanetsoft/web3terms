@@ -316,6 +316,10 @@
     "meaning": "Ethereum 2.0 is a deprecated term that was used to describe the consensus layer of Ethereum as part of it's migration from a Proof-of-Work consensus mechanism to Proof-of-Stake consensus. Additionally, Eth1 is now referred to as the execution layer."
   },
   {
+    "term": "Ethereum Classic",
+    "meaning": "Ethereum Classic is the original/unaltered version of Ethereum, initially released in July 2015 which was continued after the first hack on the Ethereum network. Its native token code is $ETC"
+  },
+  {
     "term": "ethereum improvement proposal",
     "meaning": "Ethereum Improvement Proposal is a new feature of the Ethereum blockchain that allows for the creation of smart contracts. These contracts can be used to create new tokens, or to create new functions on the blockchain."
   },
@@ -570,6 +574,10 @@
   {
     "term": "non-fungible token",
     "meaning": "A digital certificate of authenticity, or NFT, is used to assign and verify a single digital or physical item ownership. NFTs are not convertible with each other, unlike fungible tokens."
+  },
+  {
+    "term": "off chain",
+    "meaning": "Something that happens outside the blockchain. For example \"off chain transactions\" or \"off chain storage\"."
   },
   {
     "term": "opensea",
