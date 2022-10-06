@@ -22,7 +22,7 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
     ```json
         {
             "previousPage": null,
-            "nextPage": "11", // Updated regularly
+            "nextPage": "11",
             "total": 203, // Updated regularly
             "totalPages": 102, // Updated regularly
             "items": [
@@ -30,15 +30,11 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
                     "term": "abi",
                     "meaning": "ABI is the standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
                 },
-                {
-                    "term": "abi",
-                    "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
-                },
-
-                ....
+                
+                //...
             ]
         }
-        ```
+   ```
 ## 🛠 Installation
 
 + Install [Node.js](http://nodejs.org/) on your PC
