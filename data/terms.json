@@ -576,6 +576,10 @@
     "meaning": "A digital certificate of authenticity, or NFT, is used to assign and verify a single digital or physical item ownership. NFTs are not convertible with each other, unlike fungible tokens."
   },
   {
+    "term": "off chain",
+    "meaning": "Something that happens outside the blockchain. For example \"off chain transactions\" or \"off chain storage\"."
+  },
+  {
     "term": "opensea",
     "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
