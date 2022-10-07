@@ -1,0 +1,32 @@
+name: Run Tests
+
+on:
+  push:
+    paths: ["**.js", "data/terms.json"]
+    branches: [develop, "xeno097/test-workflow"]
+  pull_request:
+    paths: ["**.js", "data/terms.json"]
+    branches: [develop, "xeno097/test-workflow"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js ${{ matrix.node-version }} runner
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Dependencies
+        run: yarn install
+
+      - name: Test
+        run: yarn test:ci

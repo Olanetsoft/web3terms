@@ -13,7 +13,8 @@
     "lint:check": "eslint .",
     "lint:fix": "eslint --fix .",
     "precommit": "lint-staged",
-    "test": "jest --silent"
+    "test": "jest --silent",
+    "test:ci": "jest --verbose"
   },
   "repository": "https://github.com/Olanetsoft/web3terms.git",
   "author": "Idris Olubisi <heedris2olubisi@gmail.com>",
