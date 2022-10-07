@@ -2,11 +2,11 @@ name: Run Tests
 
 on:
   push:
-    paths: ["**.js", "data/terms.json"]
-    branches: [develop, "xeno097/test-workflow"]
+    paths: ['**.js', 'data/terms.json']
+    branches: [develop, 'Olanetsoft/web3terms']
   pull_request:
-    paths: ["**.js", "data/terms.json"]
-    branches: [develop, "xeno097/test-workflow"]
+    paths: ['**.js', 'data/terms.json']
+    branches: [develop, 'Olanetsoft/web3terms']
 
 jobs:
   test:
