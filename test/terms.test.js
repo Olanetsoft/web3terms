@@ -12,7 +12,7 @@ describe('terms.json', () => {
   describe('Check term casing', () => {
     // Assert
     parsedData.forEach(definition => {
-      it(`should be lowercase: ${definition.term}`, () => {
+      it(`should be lowercase:- ${definition.term}`, () => {
         expect(definition.term).toEqual(definition.term?.toLowerCase());
       });
     });
