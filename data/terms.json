@@ -60,6 +60,18 @@
     "meaning": "All Time Low is the lowest price an asset has ever had."
   },
   {
+    "term": "all risk coverage",
+    "meaning": "Insurance coverage that automatically covers any risk that the contract does not explicitly omit."
+  },
+  {
+    "term": "amos",
+    "meaning": "Algorithm market operations automatically controls the supply of algorithm stable coins while improving scalability and decentralization."
+  },
+  {
+    "term": "air gap",
+    "meaning": "If data cannot be accessed then it cannot be infected or corrupted - this is the concept of air-gap."
+  },
+  {
     "term": "base fee",
     "meaning": "The base fee is an algorithmically determined fee that users on the Ethereum blockchain must pay to complete a transaction. Depending on how full the new block is, the Base Fee is automatically increased (block is more than 50% full) or decreased (block is less than 50% full)."
   },
@@ -126,6 +138,14 @@
   {
     "term": "byzantine fault tolerance",
     "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
+  },
+   {
+    "term": "bull trap",
+    "meaning": "When a steady declining asset appears to reverse and go upward, but soon resume its downward trend."
+  },
+  {
+    "term": "buy wall",
+    "meaning": "This is a disproportionately large but limit order placed on a crypto trade."
   },
   {
     "term": "cefi",
