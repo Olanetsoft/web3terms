@@ -2,8 +2,10 @@ name: Lint Runner
 
 on:
   push:
+    paths: ["**.js", "data/terms.json"]
     branches: [develop]
   pull_request:
+    paths: ["**.js", "data/terms.json"]
     branches: [develop]
 
 jobs:
