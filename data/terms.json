@@ -1,10 +1,6 @@
 [
   {
     "term": "abi",
-    "meaning": "ABI is the standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interaction."
-  },
-  {
-    "term": "abi",
     "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
   },
   {
@@ -60,6 +56,18 @@
     "meaning": "All Time Low is the lowest price an asset has ever had."
   },
   {
+    "term": "all risk coverage",
+    "meaning": "Insurance coverage that automatically covers any risk that the contract does not explicitly omit."
+  },
+  {
+    "term": "amos",
+    "meaning": "Algorithm market operations automatically controls the supply of algorithm stable coins while improving scalability and decentralization."
+  },
+  {
+    "term": "air gap",
+    "meaning": "If data cannot be accessed then it cannot be infected or corrupted - this is the concept of air-gap."
+  },
+  {
     "term": "base fee",
     "meaning": "The base fee is an algorithmically determined fee that users on the Ethereum blockchain must pay to complete a transaction. Depending on how full the new block is, the Base Fee is automatically increased (block is more than 50% full) or decreased (block is less than 50% full)."
   },
@@ -76,10 +84,6 @@
     "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
   },
   {
-    "term": "bitcoin",
-    "meaning": "Satoshi Nakamoto, a pseudonym, developed the first decentralized, peer-to-peer digital money in 2009. Unlike government-issued currencies, Bitcoin boasts lower transaction fees than existing online payment options and is managed by a decentralized authority."
-  },
-  {
     "term": "block",
     "meaning": "A block is a group of transactions that have been recorded on the blockchain. Every block has information about the block preceding it, allowing them to communicate with one another."
   },
@@ -90,10 +94,6 @@
   {
     "term": "blockchain",
     "meaning": "Blockchain is a decentralized digital ledger that anyone can access and can be used to store and transfer data without the need for a central authority. Blockchains are the underlying technology that allows cryptocurrency systems like Bitcoin and Ethereum to function."
-  },
-  {
-    "term": "blockchain trilemma",
-    "meaning": "In general a trilemma is a difficul choice between 3 options where a choice of a side disadvantages the third one. The blockchain trilemma is the problem of being very hard, if not impossible, to balance between: decentralization, scalability and security"
   },
   {
     "term": "blockchain trilemma",
@@ -117,15 +117,19 @@
   },
   {
     "term": "buy the dip",
-    "meaning": "This is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
-  },
-  {
-    "term": "buy the dip",
     "meaning": "Buy the dip, is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
   },
   {
     "term": "byzantine fault tolerance",
     "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
+  },
+   {
+    "term": "bull trap",
+    "meaning": "When a steady declining asset appears to reverse and go upward, but soon resume its downward trend."
+  },
+  {
+    "term": "buy wall",
+    "meaning": "This is a disproportionately large but limit order placed on a crypto trade."
   },
   {
     "term": "cefi",
@@ -177,10 +181,6 @@
   },
   {
     "term": "cryptography",
-    "meaning": "A type of data encryption in which data can only be decrypted with the use of a key."
-  },
-  {
-    "term": "cryptography",
     "meaning": "Cryptography is a type of data encryption in which data can only be decrypted with the use of a key."
   },
   {
@@ -198,10 +198,6 @@
   {
     "term": "data",
     "meaning": "Data in the context of the internet refers to a user’s personal information."
-  },
-  {
-    "term": "decentralized",
-    "meaning": "A decentralized system runs without the supervision of a central figure of authority instead of relying on a distributed peer-to-peer network."
   },
   {
     "term": "decentralized",
@@ -252,20 +248,12 @@
     "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
   },
   {
-    "term": "do your own research",
-    "meaning": "This reminds people to do their research before investing in a specific asset."
-  },
-  {
     "term": "due diligence",
     "meaning": "Due Diligence is the process of conducting your research on a cryptocurrency, stock, or other assets before investing. Doing your own DD is essential, as opposed to making an investment based on what someone else says or does."
   },
   {
     "term": "dyor",
     "meaning": "The phrase do your own research reminds people to do their research before investing in a specific asset."
-  },
-  {
-    "term": "dyor",
-    "meaning": "This phrase reminds people to do their research before investing in a specific asset."
   },
   {
     "term": "eip",
@@ -302,10 +290,6 @@
   {
     "term": "erc-777",
     "meaning": "ERC-777 is a token standard for fungible tokens introduced on the Ethereum network that is fully compatible with existing decentralized exchanges and is focused around allowing more complex interactions when trading tokens."
-  },
-  {
-    "term": "ethereum",
-    "meaning": "Ethereum is a decentralized application platform built on a public blockchain for digital money, international payments, and applications. The community has created a thriving digital economy and innovative new ways for creators to make money online."
   },
   {
     "term": "ethereum",
@@ -380,10 +364,6 @@
     "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
   {
-    "term": "fork (hard)",
-    "meaning": "A fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
-  },
-  {
     "term": "fork (soft)",
     "meaning": "A soft fork is a blockchain upgrade that is backward compatible. These changes do not necessitate the formation of a new chain, unlike a hard fork."
   },
@@ -405,18 +385,11 @@
   },
   {
     "term": "fungible",
+
     "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
   },
   {
     "term": "game fi",
-    "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
-  },
-  {
-    "term": "game fi",
-    "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
-  },
-  {
-    "term": "gamefi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
   },
   {
@@ -426,14 +399,6 @@
   {
     "term": "gas fee",
     "meaning": "Gas fee is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
-  },
-  {
-    "term": "gas fees",
-    "meaning": "This is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
-  },
-  {
-    "term": "gas fees",
-    "meaning": "Gas fee is the transaction costs users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "genesis block",
@@ -494,10 +459,6 @@
   {
     "term": "ipfs",
     "meaning": "IPFS stands for InterPlanetary File System. It's a protocol, an hypermedia, a file sharing p2p network. It's used for storing/sharing data in a distributed file system. It uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts."
-  },
-  {
-    "term": "l1",
-    "meaning": "Trustable P2P distributed network formed by untrusted nodes implementing a consensus algorithm."
   },
   {
     "term": "l1",
@@ -584,10 +545,6 @@
     "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
   {
-    "term": "opensea",
-    "meaning": "It is the world's largest NFT exchange, specializing in ethereum-based NFTs."
-  },
-  {
     "term": "oracle",
     "meaning": "Oracle is a service that provides data from the outside world to smart contracts. Smart contracts can't access data off-chain; thus, they rely on oracles like Chainlink and Band Protocol to retrieve, verify, and distribute external data."
   },
@@ -596,15 +553,7 @@
     "meaning": "Orphan bloc is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
   },
   {
-    "term": "orphan block",
-    "meaning": "Orphan block is a block that has been solved within the blockchain network but was not accepted by the network yet. The network uses both blocks until one chain has more verified blocks than the other. Then, the blocks in the shorter chain are orphaned."
-  },
-  {
     "term": "p2p",
-    "meaning": "P2P refers to a network of two or more computers that communicate directly without a central server or entity."
-  },
-  {
-    "term": "p2p (peer-to-peer)",
     "meaning": "P2P refers to a network of two or more computers that communicate directly without a central server or entity."
   },
   {
@@ -622,10 +571,6 @@
   {
     "term": "plebble",
     "meaning": "Plebble is a P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
-  },
-  {
-    "term": "pos",
-    "meaning": "Proof of Stake"
   },
   {
     "term": "pos",
@@ -650,10 +595,6 @@
   {
     "term": "protocol",
     "meaning": "A protocol is a program's basic software layer. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
-  },
-  {
-    "term": "protocol",
-    "meaning": "A program's basic software layer is called a protocol. A protocol has become a catch-all phrase for both layer one blockchain networks and the layer two applications developed on top of them. Protocols include Bitcoin, Ethereum, Uniswap, and Lightning Network."
   },
   {
     "term": "public key",
@@ -696,10 +637,6 @@
     "meaning": "Shill describes a person that is engaged in advertising a cryptocurrency or NFT project by endorsing the project or product in public forums or communities."
   },
   {
-    "term": "shit coin",
-    "meaning": "A shitcoin is a cryptocurrency with little to no value or digital currency that has no immediate, discernable purpose, it is mostly characterized by short term price increase followed by a huge dump or price decrease by investors who want to capitalize on short-term gains"
-  },
-  {
     "term": "shitcoin",
     "meaning": "A shitcoin is a cryptocurrency with little to no value or digital currency that has no immediate, discernable purpose, it is mostly characterized by short term price increase followed by a huge dump or price decrease by investors who want to capitalize on short-term gains"
   },
@@ -734,10 +671,6 @@
   {
     "term": "to the moon",
     "meaning": "The term to the moon suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
-  },
-  {
-    "term": "to the moon",
-    "meaning": "This term suggests that the value of an asset will rise to the point where it will reach the moon. This is utilized by shills, bulls, and virtually everyone during a bull market."
   },
   {
     "term": "token",
