@@ -412,6 +412,10 @@
     "meaning": "Governance tokens are cryptocurrencies that give the owner voting rights over the given project."
   },
   {
+    "term": "gwei",
+    "meaning": "Gwei is a denomination of ether used as the unit of measure for Ethereum gas prices. 10^9 gwei = 1 ether."
+  },
+  {
     "term": "hard fork",
     "meaning": "A hard fork is a significant alteration to a blockchain that is incompatible with the current protocol and necessitates the creation of a new chain."
   },
@@ -422,6 +426,10 @@
   {
     "term": "hashing",
     "meaning": " Hashing is a function that takes data and creates a completely unique hash value."
+  },
+  {
+    "term": "hfsp",
+    "meaning": "HFSP stands fr Have Fun Staying Poor. It's a phrase commonly aimed at individuals who do not own any cryptocurrencies, or don’t believe in the value of a certain asset. "
   },
   {
     "term": "hodl",
@@ -570,6 +578,10 @@
   {
     "term": "plebble",
     "meaning": "Plebble is a P2P L1 network implementing cooperative consensus as a substitute to Nakamoto consensus (PoW, PoS)."
+  },
+  {
+    "term": "poap",
+    "meaning": "The term POAP stands for 'proof of attendance protocol'. It's a digital bookmark for your life, minted as to your account or wallet. It is used to mark participation or attendance at an event. "
   },
   {
     "term": "pos",
