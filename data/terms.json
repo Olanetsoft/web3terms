@@ -4,8 +4,16 @@
     "meaning": "The term ABI is an acronym for application binary interface which acts as an interface between two binary modules. It is mainly a set of rules or protocols that is used to standardize the communication with a smart contract in the ethereum ecosystem."
   },
   {
+    "term": "air gap",
+    "meaning": "If data cannot be accessed then it cannot be infected or corrupted - this is the concept of air-gap."
+  },
+  {
     "term": "airdrop",
     "meaning": "Airdrop is a marketing strategy in which crypto projects send their native tokens directly to their users' wallets to enhance adoption and awareness."
+  },
+  {
+    "term": "all risk coverage",
+    "meaning": "Insurance coverage that automatically covers any risk that the contract does not explicitly omit."
   },
   {
     "term": "all time high",
@@ -32,6 +40,10 @@
     "meaning": "Alts is short for altcoins."
   },
   {
+    "term": "amos",
+    "meaning": "Algorithm market operations automatically controls the supply of algorithm stable coins while improving scalability and decentralization."
+  },
+  {
     "term": "ape",
     "meaning": "Ape is someone who invests heavily into a cryptocurrency or stock or the act of doing so. This is sometimes a reaction to hype and FOMO or done without much knowledge of the asset."
   },
@@ -54,18 +66,6 @@
   {
     "term": "atl",
     "meaning": "All Time Low is the lowest price an asset has ever had."
-  },
-  {
-    "term": "all risk coverage",
-    "meaning": "Insurance coverage that automatically covers any risk that the contract does not explicitly omit."
-  },
-  {
-    "term": "amos",
-    "meaning": "Algorithm market operations automatically controls the supply of algorithm stable coins while improving scalability and decentralization."
-  },
-  {
-    "term": "air gap",
-    "meaning": "If data cannot be accessed then it cannot be infected or corrupted - this is the concept of air-gap."
   },
   {
     "term": "base fee",
@@ -112,6 +112,10 @@
     "meaning": "Bull Market is a prolonged period of growth in a financial market."
   },
   {
+    "term": "bull trap",
+    "meaning": "When a steady declining asset appears to reverse and go upward, but soon resume its downward trend."
+  },
+  {
     "term": "burn",
     "meaning": "Burning entails withdrawing several tokens from circulation for good. The burning process is accomplished by moving the tokens in question to a burn address, a wallet from which they cannot be retrieved. However, It is often referred to as token destruction."
   },
@@ -120,16 +124,12 @@
     "meaning": "Buy the dip, is when you acquire more of an asset after its value has dropped. If the price of Ethereum falls by $4,000, for example, a Ethereum holder might 'buy the dip.'"
   },
   {
-    "term": "byzantine fault tolerance",
-    "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
-  },
-   {
-    "term": "bull trap",
-    "meaning": "When a steady declining asset appears to reverse and go upward, but soon resume its downward trend."
-  },
-  {
     "term": "buy wall",
     "meaning": "This is a disproportionately large but limit order placed on a crypto trade."
+  },
+  {
+    "term": "byzantine fault tolerance",
+    "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
   },
   {
     "term": "cefi",
@@ -385,7 +385,6 @@
   },
   {
     "term": "fungible",
-
     "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
   },
   {
@@ -751,5 +750,9 @@
   {
     "term": "yield farming",
     "meaning": "Yield farming is the process of using decentralized finance (DeFi) to maximize returns. Users lend or borrow crypto on a DeFi platform and earn cryptocurrency in return for their services."
+  },
+  {
+    "term": "zero-knowledge rollups",
+    "meaning": "Zero-knowledge rollups (ZK-rollups) are layer 2 scaling solutions that increase throughput on Ethereum Mainnet by moving computation and state-storage off-chain. ZK-rollups can process thousands of transactions in a batch and then only post some minimal summary data to Mainnet."
   }
 ]
