@@ -770,5 +770,53 @@
   {
     "term": "zero-knowledge rollups",
     "meaning": "Zero-knowledge rollups (ZK-rollups) are layer 2 scaling solutions that increase throughput on Ethereum Mainnet by moving computation and state-storage off-chain. ZK-rollups can process thousands of transactions in a batch and then only post some minimal summary data to Mainnet."
+  },
+  {
+    "term": "Codefi",
+    "meaning": "Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, is building a suite of commerce and financial applications."
+  },
+  {
+    "term": "confirmation",
+    "meaning": "A confirmation happens when the network has verified the blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack."
+  },
+  {
+    "term": "crypto bounties",
+    "meaning": "Bounties paid for in cryptocurrency. See also “bug bounties”."
+  },
+  {
+    "term": "Devcon",
+    "meaning": "This is shorthand for the Ethereum Developers’ Conference."
+  },
+  {
+    "term": "double spend",
+    "meaning": "An event during which someone on the Bitcoin network tries to send a specific bitcoin transaction to two different recipients at once. However, as each bitcoin transaction is confirmed, double spending becomes almost impossible. The more confirmations that a particular transaction has, the decreased likelihood of double spending successfully."
+  },
+  {
+    "term": "epoch",
+    "meaning": "An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. For the Ethereum Beacon Chain, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain."
+  },
+  {
+    "term": "ENS",
+    "meaning": "The Ethereum Name Service is a protocol to assign human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS."
+  },
+  {
+    "term": "finney",
+    "meaning": "A denomination of ether. See ether (denomination)."
+  },
+  {
+    "term": "HD wallet",
+    "meaning": "Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you “create” accounts, they will be the same accounts as previously created from that same phrase; they are derived from it."
+  },
+  {
+    "term": "Hyperledger",
+    "meaning": "Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains–that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS)."
+  },
+  {
+    "term": "Multi Signature (MultiSig)",
+    "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets which only require one signature to approve a transaction."
+  },
+  {
+    "term": "nonce",
+    "meaning": "The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend)."
   }
 ]
