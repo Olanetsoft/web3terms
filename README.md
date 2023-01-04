@@ -17,7 +17,7 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 + Test Coverage ✅
-+ Endpoint `https://web3terms.herokuapp.com/terms` to retrieve all terms ✅
++ Endpoint `https://web3terms.onrender.com//terms` to retrieve all terms ✅
     + Response:
     ```json
         {
