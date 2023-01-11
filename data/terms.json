@@ -240,6 +240,10 @@
     "meaning": "Degen is initially short for “degenerate gambler.” While this still refers to individuals involved with risky bets, degen may also refer more broadly to anyone involved in crypto and financial spaces."
   },
   {
+    "term": "desci",
+    "meaning": "Decentralized science, or DeSci, is a Web3 movement that leverages blockchain tools to address the critical issues plaguing modern science, such as funding, publishing, and copyright ownership."
+  },
+  {
     "term": "devcon",
     "meaning": "This is shorthand for the Ethereum Developers’ Conference."
   },
@@ -604,6 +608,10 @@
     "meaning": "Something that happens outside the blockchain. For example \"off chain transactions\" or \"off chain storage\"."
   },
   {
+    "term": "on-chain",
+    "meaning": "A transaction that is carried out on a blockchain network from start to finish."
+  },
+  {
     "term": "opensea",
     "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
@@ -668,6 +676,10 @@
     "meaning": "The public key is used to point to your wallet address, an alphanumeric code similar to a bank account number that acts as the address for a blockchain wallet. "
   },
   {
+    "term": "refi",
+    "meaning": "Regenerative Finance (ReFi) is a movement focusing on the power of blockchain and web3 to address climate change, support conservation and biodiversity, and creating a more equitable and sustainable financial system."
+  },
+  {
     "term": "rekt",
     "meaning": "Rekt as in “wrecked,” used to express that one has suffered a huge loss."
   },
@@ -686,6 +698,10 @@
   {
     "term": "seed phrase",
     "meaning": "You'll be given a 12-word seed phrase when you create a cryptocurrency wallet. You'll need to enter your seed phrase every time you log into your wallet on a new device. Never tell anyone your seed phrase."
+  },
+  {
+    "term": "segwit",
+    "meaning": "Segregated Witness (SegWit) is a soft fork of the current bitcoin blockchain to reduce the size needed to store transactions in a block."
   },
   {
     "term": "sha-256",
@@ -748,6 +764,10 @@
     "meaning": "Tokenization is the process of exchanging sensitive data for nonsensitive data called tokens that can be used in a database or internal system without bringing it into scope."
   },
   {
+    "term": "tokenomics",
+    "meaning": "Tokenomics is a term that combines the terms Token and Economics to describe the issuance, attributes, distribution, supply, and demand of a cryptocurrency token."
+  },
+  {
     "term": "transaction",
     "meaning": "A transaction is a data that has been added to a blockchain. Nodes on the network verify new transactions before broadcasting them to other nodes. The transaction is considered genuine and added to a block if enough nodes have validated it."
   },
@@ -762,6 +782,10 @@
   {
     "term": "tvl",
     "meaning": "Total Value Locked(TVL), a measure of the assets locked into an dapp’s smart contract, usually expressed in USD."
+  },
+  {
+    "term": "utxo",
+    "meaning": "Unspent Transaction Output (UTXO) is the amount of digital currency someone has left remaining after executing a transaction."
   },
   {
     "term": "vaporware",
