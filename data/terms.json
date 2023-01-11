@@ -604,6 +604,10 @@
     "meaning": "Something that happens outside the blockchain. For example \"off chain transactions\" or \"off chain storage\"."
   },
   {
+    "term": "on-chain",
+    "meaning": "A transaction that is carried out on a blockchain network from start to finish."
+  },
+  {
     "term": "opensea",
     "meaning": " Opensea is the world's largest NFT exchange, specializing in ethereum-based NFTs."
   },
