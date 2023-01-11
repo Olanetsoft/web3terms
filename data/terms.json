@@ -748,6 +748,10 @@
     "meaning": "Tokenization is the process of exchanging sensitive data for nonsensitive data called tokens that can be used in a database or internal system without bringing it into scope."
   },
   {
+    "term": "tokenomics",
+    "meaning": "Tokenomics is a term that combines the terms Token and Economics to describe the issuance, attributes, distribution, supply, and demand of a cryptocurrency token."
+  },
+  {
     "term": "transaction",
     "meaning": "A transaction is a data that has been added to a blockchain. Nodes on the network verify new transactions before broadcasting them to other nodes. The transaction is considered genuine and added to a block if enough nodes have validated it."
   },
