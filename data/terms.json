@@ -700,6 +700,10 @@
     "meaning": "You'll be given a 12-word seed phrase when you create a cryptocurrency wallet. You'll need to enter your seed phrase every time you log into your wallet on a new device. Never tell anyone your seed phrase."
   },
   {
+    "term": "segwit",
+    "meaning": "Segregated Witness (SegWit) is a soft fork of the current bitcoin blockchain to reduce the size needed to store transactions in a block."
+  },
+  {
     "term": "sha-256",
     "meaning": "The Secure Hashing Algorithm (SHA) is a set of cryptographic hashing functions developed by the National Security Agency (NSA). SHA-256 takes an input of data and generates a hash, which is a long series of letters and numbers. It is then used to represent data securely."
   },
