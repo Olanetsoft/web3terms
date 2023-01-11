@@ -784,6 +784,10 @@
     "meaning": "Total Value Locked(TVL), a measure of the assets locked into an dapp’s smart contract, usually expressed in USD."
   },
   {
+    "term": "utxo",
+    "meaning": "Unspent Transaction Output (UTXO) is the amount of digital currency someone has left remaining after executing a transaction."
+  },
+  {
     "term": "vaporware",
     "meaning": "Vaporware is a product or project that is announced and marketed but never actually materializes."
   },
