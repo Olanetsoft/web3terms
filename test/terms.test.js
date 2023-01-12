@@ -26,4 +26,16 @@ describe('terms.json', () => {
       });
     });
   });
+
+  describe('Check for duplicate Objects', () => {
+    // Assert
+    parsedData.forEach(termObject => {
+      it(`Got multiple entries for "${termObject.term}"`, () => {
+        const entries = parsedData.filter(
+          termObj => termObj.term === termObject.term
+        );
+        expect(entries.length).toEqual(1);
+      });
+    });
+  });
 });
