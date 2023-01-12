@@ -416,20 +416,12 @@
     "meaning": "A full node is a blockchain node that verifies and relays transactions while also storing the blockchain's entire history."
   },
   {
-    "term": "full node",
-    "meaning": "This blockchain node verifies and relays transactions while also storing the blockchain's entire history."
-  },
-  {
     "term": "fungible",
     "meaning": "Fungible is a term used to describe a token of same kind that can be transferred from one address to another."
   },
   {
     "term": "game fi",
     "meaning": "GameFi is a fusion of two words, game and finance. GameFi to gaming on the blockchain that offers economic incentives to players. Example: Play-to-Earn"
-  },
-  {
-    "term": "gas fee",
-    "meaning": "The is the transaction fee users pay to miners on a blockchain protocol to get their transaction included in the block are referred to as 'gas fees.'"
   },
   {
     "term": "gas fee",
@@ -521,10 +513,6 @@
   },
   {
     "term": "l2",
-    "meaning": "Distributed system complimenting L1 providing fast and scalable transaction processing."
-  },
-  {
-    "term": "l2",
     "meaning": "L2 is a distributed system complimenting L1 providing fast and scalable transaction processing."
   },
   {
@@ -590,10 +578,6 @@
   {
     "term": "node",
     "meaning": "A node is any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
-  },
-  {
-    "term": "node",
-    "meaning": "Any device connecting to a blockchain network is referred to as a node. Different nodes have different levels of responsibility and may be used to validate transactions, maintain the blockchain's history, transmit data, and perform other tasks."
   },
   {
     "term": "non-fungible token",
@@ -798,10 +782,6 @@
   {
     "term": "wallet",
     "meaning": "A wallet is a software application or hardware device that holds the private keys to blockchain assets and accounts. A blockchain wallet does not contain  currencies or tokens themselves, Instead, they save the private key that certifies a digital asset's ownership."
-  },
-  {
-    "term": "wallet",
-    "meaning": "This software application or hardware device holds the private keys to blockchain assets and accounts. It is a digital wallet that allows users to store and manage their cryptocurrencies."
   },
   {
     "term": "wallet address",
