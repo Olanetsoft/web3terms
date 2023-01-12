@@ -149,12 +149,12 @@ Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter
 
 You might want to push this app to a running server, [here is a curated list you can checkout.](https://www.heroku.com/).
 
-> Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
+> Do not misuse the twitter api to spam or burden the server load for twitter api, as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
 
 ### **Note to Contributors**
 
-+ All web3 terms in the ```data/terms.json``` directory should be in lower case.
-+ Look to ensure that newly added terms aren't already available to avoid repitition of terms and key words.
++ All web3 terms in the ```data/terms.json``` directory should be in lowercase.
++ Look to ensure that newly added terms aren't already available to avoid repetition of terms and keywords.
 
 
 ### 🫂 Credits
