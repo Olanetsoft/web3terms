@@ -836,6 +836,10 @@
     "meaning": "Wei is the smallest ether denomination, named after Wei Dai, a cypherpunk and cryptocurrency pioneer. One ether = 10^18 gwei"
   },
   {
+    "term": "whale",
+    "meaning": "A whale is someone who holds a large amount of a specific type of cryptocurrency."
+  },
+  {
     "term": "whitelist",
     "meaning": "A cryptocurrency and non-fungible token presale list. Whitelisted investors have the opportunity to purchase the item before it is released to the general public, often at a discount."
   },
