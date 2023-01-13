@@ -504,6 +504,10 @@
     "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
   },
   {
+    "term": "ilo",
+    "meaning": "Initial Liquidity Offering (ILO) is a new fundraising mechanism through which many projects and startups raise funds by selling tokens on Decentralized Exchanges."
+  },
+  {
     "term": "ipfs",
     "meaning": "IPFS stands for InterPlanetary File System. It's a protocol, an hypermedia, a file sharing p2p network. It's used for storing/sharing data in a distributed file system. It uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts."
   },
