@@ -708,6 +708,10 @@
     "meaning": "A shitcoin is a cryptocurrency with little to no value or digital currency that has no immediate, discernable purpose, it is mostly characterized by short term price increase followed by a huge dump or price decrease by investors who want to capitalize on short-term gains"
   },
   {
+    "term": "sidechain",
+    "meaning": "A sidechain is an independent chain that works adjacent to a parent blockchain also known as a mainnet. It aims to resolve the scalability problem."
+  },
+  {
     "term": "slashing",
     "meaning": "Slashing is the process of a validator's staked bitcoin being burned or redistributed as a penalty for allowing fraudulent charges or otherwise damaging the network."
   },
