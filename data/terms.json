@@ -132,6 +132,10 @@
     "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
   },
   {
+    "term": "cbdc",
+    "meaning": "Central Bank Digital Currency (CBDC) is the electronic version of a country's fiat currency, issued by the central government."
+  },
+  {
     "term": "cefi",
     "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
   },
