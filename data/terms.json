@@ -732,6 +732,10 @@
     "meaning": "DeFi staking frequently refers to locking up tokens within a protocol to achieve a certain aim or effect, rather than securing block creation."
   },
   {
+    "term": "state channel",
+    "meaning": "A state channel is a mechanism that allows users transact with one another directly off-chain, outside of the blockchain and keep record of the final state of the transaction in the blockchain."
+  },
+  {
     "term": "testnet",
     "meaning": "Testnet is a software environment that resembles the mainnet blockchain and is used to test network upgrades and smart contracts before they are deployed to the mainnet."
   },
