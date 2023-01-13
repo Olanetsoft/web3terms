@@ -560,12 +560,12 @@
     "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
   },
   {
-    "term": "multisig",
-    "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
-  },
-  {
     "term": "multichain",
     "meaning": "Data, coins, or assets can be sent from one blockchain to another. Multichain services, on the other hand, are designed to work over many blockchains."
+  },
+  {
+    "term": "multisig",
+    "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
   },
   {
     "term": "nft",
