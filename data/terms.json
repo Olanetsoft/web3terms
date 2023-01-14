@@ -132,6 +132,10 @@
     "meaning": "Byzantine fault is a condition where components of a distributed computer system may fail, with imperfect information on whether a component has failed."
   },
   {
+    "term": "cbdc",
+    "meaning": "Central Bank Digital Currency (CBDC) is the electronic version of a country's fiat currency, issued by the central government."
+  },
+  {
     "term": "cefi",
     "meaning": "Centralized Finance is a centralized businesses that participate in crypto."
   },
@@ -508,6 +512,10 @@
     "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
   },
   {
+    "term": "ilo",
+    "meaning": "Initial Liquidity Offering (ILO) is a new fundraising mechanism through which many projects and startups raise funds by selling tokens on Decentralized Exchanges."
+  },
+  {
     "term": "ipfs",
     "meaning": "IPFS stands for InterPlanetary File System. It's a protocol, an hypermedia, a file sharing p2p network. It's used for storing/sharing data in a distributed file system. It uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts."
   },
@@ -564,12 +572,12 @@
     "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
   },
   {
-    "term": "multisig",
-    "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
-  },
-  {
     "term": "multichain",
     "meaning": "Data, coins, or assets can be sent from one blockchain to another. Multichain services, on the other hand, are designed to work over many blockchains."
+  },
+  {
+    "term": "multisig",
+    "meaning": "A crypto-asset wallet that requires multiple keys to access. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet."
   },
   {
     "term": "nft",
@@ -712,6 +720,10 @@
     "meaning": "A shitcoin is a cryptocurrency with little to no value or digital currency that has no immediate, discernable purpose, it is mostly characterized by short term price increase followed by a huge dump or price decrease by investors who want to capitalize on short-term gains"
   },
   {
+    "term": "sidechain",
+    "meaning": "A sidechain is an independent chain that works adjacent to a parent blockchain also known as a mainnet. It aims to resolve the scalability problem."
+  },
+  {
     "term": "slashing",
     "meaning": "Slashing is the process of a validator's staked bitcoin being burned or redistributed as a penalty for allowing fraudulent charges or otherwise damaging the network."
   },
@@ -734,6 +746,10 @@
   {
     "term": "staking",
     "meaning": "DeFi staking frequently refers to locking up tokens within a protocol to achieve a certain aim or effect, rather than securing block creation."
+  },
+  {
+    "term": "state channel",
+    "meaning": "A state channel is a mechanism that allows users transact with one another directly off-chain, outside of the blockchain and keep record of the final state of the transaction in the blockchain."
   },
   {
     "term": "testnet",
