@@ -512,12 +512,12 @@
     "meaning": "Initial Exchange Offering (IEO) involves the use of a cryptocurrency exchange to raise funds for a new project."
   },
   {
-    "term": "initial coin offering",
-    "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
-  },
-  {
     "term": "ilo",
     "meaning": "Initial Liquidity Offering (ILO) is a new fundraising mechanism through which many projects and startups raise funds by selling tokens on Decentralized Exchanges."
+  },
+  {
+    "term": "initial coin offering",
+    "meaning": "Initial Coin Offerings (ICOs) are a popular financing tool for firms that want to sell products and services in the cryptocurrency and blockchain arena."
   },
   {
     "term": "ipfs",
@@ -742,6 +742,10 @@
   {
     "term": "soft fork",
     "meaning": "A soft fork is a blockchain upgrade that is backward compatible. These changes do not necessitate the formation of a new chain, unlike a hard fork."
+  },
+  {
+    "term": "solidity",
+    "meaning": "Solidity is a high-level programming language used to write smart contracts for blockchain platforms. It is a contract-oriented, statically-typed language that supports inheritance, libraries, and complex user-defined types."
   },
   {
     "term": "stablecoin",
