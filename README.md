@@ -17,6 +17,7 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 + Test Coverage ✅
++ Look Up New Web3 Terms
 + Endpoint `https://web3terms.onrender.com/terms` to retrieve all terms ✅
     + Response:
     ```json
@@ -123,23 +124,23 @@ OPENAI_KEY=xxxx
 
 6. Add in the appropriate environment values for the twitter bot 
 
-## 🔀 Connect to Telegram and OpenAI (ChatGPT)
+## 🔀 Connect to Telegram
 1. Head over to your Telegram account and search for botFather with a blue check ✅ (verified)
 
 2. Send the command `/start` to startup botFather.
 
 3. Click on /newbot, and follow the instructions 
-- type in your preferred unique bot name e.g (Web3 Terms) 
-- choose a unique user name ending with bot(web3terms_bot has already been used)
++ type in your preferred unique bot name e.g (Web3 Terms) 
++ choose a unique user name ending with bot(web3terms_bot has already been used)
 
 4. Copy and save your bot's api token, and add it to the environment variable   
 
 
-## Connect to OpenAI (ChatGPT)
+## 🔀 Connect to OpenAI (ChatGPT)
 
 1. Simply head over to the link to create a new secret key (Bearer Token), and add to the environment variables
 
-*Run Dev*
+**Run Dev**
 - Type the following in the command line in your project directory to start the project
 
 ```bash
