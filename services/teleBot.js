@@ -8,14 +8,14 @@ import otherResponse from './otherReponse.js';
 // Handle Basic Commands
 bot.start(ctx => {
   ctx.reply(`Hi ${ctx.from.first_name} ${otherResponse()[0]}`);
-  logger.info('Start command was used');
+  logger.info('Telegram /start command was used');
 });
 
 bot.help(ctx => {
   ctx.reply(otherResponse()[1], {
     parse_mode: 'Markdown',
   });
-  logger.info('Help command was used');
+  logger.info('Telegram /help command was used');
 });
 
 // Handling Custom Commands
@@ -23,7 +23,7 @@ bot.command('about', ctx => {
   ctx.reply(otherResponse()[2], {
     parse_mode: 'Markdown',
   });
-  logger.info('About command was used');
+  logger.info('Telegram /about command was used');
 });
 
 bot.command('terms', async ctx => {
@@ -53,4 +53,4 @@ bot.use(async ctx => {
   logger.info(`${ctx.from.first_name} tried to find the meaning of ${term}`);
 });
 
-bot.launch(logger.info('Bot is running...'));
+bot.launch(logger.info('Telegram Bot is running...'));

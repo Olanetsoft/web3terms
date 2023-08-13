@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js & node teleBot",
-    "dev": "nodemon server.js & nodemon teleBot",
+    "start": "node server.js & node teleBot.js",
+    "dev": "nodemon server.js & nodemon teleBot.js",
     "sort": "cd bin && node sort.js",
     "format:check": "prettier --check .",
     "format:write": "prettier --write .",
