@@ -17,6 +17,7 @@ A Twitter bot explaining and simplifying web3 terms to everyone!
 + Daily Web3 terms tweet ✅
 + Acknowledgement tweet ✅
 + Test Coverage ✅
++ Look Up New Web3 Terms
 + Endpoint `https://web3terms.onrender.com/terms` to retrieve all terms ✅
     + Response:
     ```json
@@ -81,7 +82,7 @@ git commit -m "<your message>"
 
 6. Push your changes
 ```bash
-git push --set-upstream origin <branch-name>
+git push --set-upstream origin <>
 ```
 
 7. Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
@@ -102,6 +103,7 @@ git push --set-upstream origin <branch-name>
 + "Key and Access Token" tab : Click on `Generate access token`. 
 5. Create a `.env` file and fill in the generated tokens in the "Key and Access Token" tab.
 
+
 It should look like this:
 ```sh
 PORT=xxxx
@@ -115,19 +117,47 @@ TWITTER_CONSUMER_SECRET=xxxx
 
 TWITTER_ACCESS_TOKEN=xxxx
 TWITTER_ACCESS_TOKEN_SECRET=xxxx
+
+TELEGRAM_TOKEN=xxxx
+OPENAI_KEY=xxxx
 ```
-6. Type the following in the command line in your project directory to start the project
+
+6. Add in the appropriate environment values for the twitter bot 
+
+## 🔀 Connect to Telegram
+1. Head over to your Telegram account and search for botFather with a blue check ✅ (verified)
+
+2. Send the command `/start` to startup botFather.
+
+3. Click on /newbot, and follow the instructions 
++ type in your preferred unique bot name e.g (Web3 Terms) 
++ choose a unique user name ending with bot(web3terms_bot has already been used)
+
+4. Copy and save your bot's api token, and add it to the environment variable   
+
+
+## 🔀 Connect to OpenAI (ChatGPT)
+
+1. Simply head over to the link to create a new secret key (Bearer Token), and add to the environment variables
+
+**Run Dev**
+- Type the following in the command line in your project directory to start the project
 
 ```bash
-yarn dev
+ yarn dev
 ```
+Note: Running the command above will start both the twitter and Telegram bot
+
 
 You should have something similar to what is shown below on your terminal.
 
 ```javascript
 [LOGGING] info: "Connected!"
 [LOGGING] info: "Server running on port xxxx"
+[LOGGING] info: "Telegram Bot is running..."
 ```
+
+
 
 ## 👨‍👩‍👦 Community
 Don't forget to follow [Web3terms](https://twitter.com/web3terms) on twitter

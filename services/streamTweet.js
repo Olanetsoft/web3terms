@@ -8,7 +8,9 @@ import failureMessage from './response.js';
 import validateTweet from './validations.js';
 
 const streamTweet = () => {
-  const stream = twitConfig.stream('statuses/filter', { track: '@web3terms' });
+  const stream = twitConfig.stream('tweets/search/stream', {
+    track: '@web3terms',
+  });
 
   stream.on('tweet', tweet => {
     logger.info(`Tweet: ${tweet.text}`);
